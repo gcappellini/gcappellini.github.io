@@ -26,11 +26,10 @@ cv:
         location: Rome, IT
         summary: '"AI-based solution methods for PDEs with application to Oncological Hyperthermia". Tutored by prof. M. Vendittelli (Medical Robotics), co-funded by Medlogix Srl.'
         highlights:
-          - Non-invasive temperature estimation in hyperthermia (HT) treatment for decision support;
-          - Research on Radiation Oncology, Control Engineering, and Deep Learning;
-          - Visiting period at Department of Radiation Oncology, Amsterdam UMC;
+          - Created and maintain a [GitHub repository](https://github.com/gcappellini/pinns-bioheat-experiments.git) for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;
           - Two-papers work presented at IEEE CDC 2023, Singapore;
-          - Tutor of "Fundamentals of Automation" for the academic year 2022-2023 (40 hours), and 2024-2025 (80 hours); supervisor for 3 final projects of "Medical Robotics"; supervisor for MSc and BSc thesis students;
+          - Tutor of "Fundamentals of Automation" (AY 2022/2023 and AY 2024/2025); 
+          - Supervisor for 3 final projects of "Medical Robotics", and a BSc thesis student;
           - PhD thesis defended on May 30th, 2025 with Excellent classification.
       - institution: Sapienza Università di Roma
         area: Nuclear Engineering
@@ -42,7 +41,6 @@ cv:
         summary: 'Thesis: "Study and characterization of radiolabeled nanovectors for application in precision molecular medicine", EQF 7, 108/110.'
         highlights:
           - Studies on Nuclear Physics, Thermodynamics, and Radiation Protection;
-          - Thesis on a joint project between Department of Nuclear Medicine of Policlinico Umberto I and Nano-Bio Photonics Lab of Sapienza Università di Roma;
           - Supervised by prof. R. Remetti (Radiation Protection for Nuclear Medicine).
       - institution: Sapienza Università di Roma
         area: Energy and Nuclear Engineering
@@ -58,12 +56,13 @@ cv:
       - company: Department of Computer, Automation and Management Engineering (DIAG), Sapienza Università di Roma
         position: PostDoc
         start_date: 2025-01
-        end_date: 2025-12
+        end_date: present
         location: Rome, IT
-        summary: Development, innovation and certification of medical and non-medical devices for healthcare (Rome Technopole Spoke 6, FP4). Supervised by prof. M. Vendittelli (Medical Robotics).
+        summary: Development, innovation and certification of medical and non-medical devices for healthcare (Rome Technopole Spoke 6, FP4). Supervised by prof. M. Vendittelli.
         highlights:
-          - Extending the research on AI-based solution methods for PDEs with application to Oncological Hyperthermia; 
-          - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality models for medical training; preliminary results to be submitted for publication.
+          - Extending the research on AI-based solution methods for PDEs with application to Oncological hyperthermia; 
+          - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;
+          - Interest on graph convolutional neural networks (GNNs) for the study of complex systems, with application to the analysis of multi-omics data.
       - company: Department of Radiation Oncology, Amsterdam UMC Hospital
         position: Visiting PhD Student
         date:
@@ -80,20 +79,19 @@ cv:
         start_date: 2020-12
         end_date: 2021-05
         location: Rome, IT
-        summary: '"ITLC study of KerAuNP labelled with 99mTc-DTPA: data evaluation, results interpretation, drawing of relevant conclusions"'
+        summary: '"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy" ([Frantellizzi, De Vincentis et. al.](https://doi.org/10.1364/OMP.2021.OTu1E.5))'
         highlights:
           - Research on Radiopharmacology, Nanomedicine, and Nanophotonics;
           - Modeling and simulation of microfluidic devices for radiolabeled nanoparticles;
-          - Supervised by Prof. G. De Vincentis, and Associate Prof. V. Frantellizzi.
     projects:
-      - name: "AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health"
+      - name: "AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health ([Reference](https://doi.org/10.1007/s42979-024-02757-w))"
         summary: 'Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe'
         highlights:
           - Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;
-          - 'doi: 10.1007/s42979-024-02757-w'
+          - Experience with relational databases, SQL, and secure data environments;
     skills:
       - label: Programming & Scientific Computing
-        details: 'Expert in Python for scientific computing and AI (PyTorch, NumPy, SciPy), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; experienced with relational databases, SQL, and secure data environments; working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
+        details: 'Expert in Python for scientific computing and AI (PyTorch, NumPy, SciPy), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
       - label: Mathematics
         details: 'Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications.'
       - label: Languages
@@ -136,9 +134,9 @@ cv:
         journal: submitted to IEEE Transactions on Control Systems Technology
     extracurricular_activities:
       - bullet: 'Professional drummer and musical director with extensive performance background across multiple genres;' 
-      - bullet: 'Early experiences in orchestra; co-founded bands including "Subba and the Roots" and "La Situa"; secured national touring grant (NuovoIMAIE 2018, €15k); formal jazz studies with renowned drummers (M. Guiliana, R. Gatto, M. Campanale, D. Panza, G. de Rienzo, F. Mendolia);'
-      - bullet: 'current member of "Dimensione Brama", a multidisciplinary ensemble combining theatrical and musical performance (12th place finalists in XFactor18, 2024);'
-      - bullet: 'more than 500 concerts and 3 albums released; experience in studio recording and production.'
+      - bullet: 'Early experiences in orchestra; co-founded bands including "[Subba and the Roots](https://open.spotify.com/artist/46X75UZxkrPJP2i1QDS4Cj?si=aldenDhPSReEZyBCH509Cw)" and "[La Situa](https://open.spotify.com/artist/5HhqNWiVXIimZrNwYLQ2FV?si=sJqBMnANQUS5EiWF8GO1oA)"; secured national touring grant (NuovoIMAIE 2018, €15k); formal jazz studies with renowned drummers (M. Guiliana, R. Gatto, M. Campanale, D. Panza, G. de Rienzo, F. Mendolia);'
+      - bullet: 'current member of "[Dimensione Brama](https://www.instagram.com/dimensionebrama/)", a multidisciplinary ensemble combining theatrical and musical performance (12th place finalists in XFactor18, 2024);'
+      - bullet: 'more than 500 concerts and 3 albums released; experience in studio recording and production. [My hands on these!](https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=e98c19efefb94af7)'
 design:
   theme: classic
   page:
