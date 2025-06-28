@@ -30,7 +30,7 @@ cv:
           - Research on Radiation Oncology, Control Engineering, and Deep Learning;
           - Visiting period at Department of Radiation Oncology, Amsterdam UMC;
           - Two-papers work presented at IEEE CDC 2023, Singapore;
-          - Tutor of "Foundamentals of Automation", and "Medical Robotics";
+          - Tutor of "Fundamentals of Automation" for the academic year 2022-2023 (40 hours), and 2024-2025 (80 hours); supervisor for 3 final projects of "Medical Robotics"; supervisor for MSc and BSc thesis students;
           - PhD thesis defended on May 30th, 2025 with Excellent classification.
       - institution: Sapienza Università di Roma
         area: Nuclear Engineering
@@ -57,15 +57,13 @@ cv:
     experience:
       - company: Department of Computer, Automation and Management Engineering (DIAG), Sapienza Università di Roma
         position: PostDoc
-        date: Jan 1st, 2025
         start_date: 2025-01
         end_date: 2025-12
         location: Rome, IT
         summary: Development, innovation and certification of medical and non-medical devices for healthcare (Rome Technopole Spoke 6, FP4). Supervised by prof. M. Vendittelli (Medical Robotics).
         highlights:
-          - Extending the research on AI-based solution methods for PDEs with application to Oncological Hyperthermia;
-          - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality models for medical training;
-          - Future projects involve the use of AI on Big Data to find correlations between minimally invasive screening tests and the onset of cancer.
+          - Extending the research on AI-based solution methods for PDEs with application to Oncological Hyperthermia; 
+          - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality models for medical training; preliminary results to be submitted for publication.
       - company: Department of Radiation Oncology, Amsterdam UMC Hospital
         position: Visiting PhD Student
         date:
@@ -75,7 +73,6 @@ cv:
         summary: Research activities related to the study of hyperthermia (HT) techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.
         highlights:
           - 'Experimental emulation of HT treatment: a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;'
-          - Collaboration with the engineer R. Zweije and the PhD student J. A. Groen;
           - Supervised by Research Physicist H. Crezee and Associate Professor H. P. Kok.
       - company: Department of Nuclear Medicine, Policlinico Umberto I, Rome
         position: MSc Thesis Intern
@@ -88,9 +85,15 @@ cv:
           - Research on Radiopharmacology, Nanomedicine, and Nanophotonics;
           - Modeling and simulation of microfluidic devices for radiolabeled nanoparticles;
           - Supervised by Prof. G. De Vincentis, and Associate Prof. V. Frantellizzi.
+    projects:
+      - name: "AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health"
+        summary: 'Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe'
+        highlights:
+          - Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;
+          - 'doi: 10.1007/s42979-024-02757-w'
     skills:
       - label: Programming & Scientific Computing
-        details: 'Expert in Python for scientific computing and AI (PyTorch, NumPy, SciPy), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
+        details: 'Expert in Python for scientific computing and AI (PyTorch, NumPy, SciPy), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; experienced with relational databases, SQL, and secure data environments; working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
       - label: Mathematics
         details: 'Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications.'
       - label: Languages
@@ -100,7 +103,7 @@ cv:
       - label: Professional Qualifications
         details: "Licensed Professional Industrial Engineer (Abilitazione per l'esercizio della professione di Ingegnere Industriale, Esame di Stato Sez. A)."
       - label: Interests
-        details: 'Experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics.'
+        details: 'Interested in phenomics and multi-omics data; experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics.'
     publications:
       - title: "Adaptive Estimation of the Pennes' Bio-Heat Equation - I: Observer Design"
         authors:
@@ -122,12 +125,6 @@ cv:
         doi: 10.1109/CDC49753.2023.10384113
         journal: 2023 62nd IEEE Conference on Decision and Control (CDC), Singapore
         date: 2023-12
-      - title: "Real-time simulation of deformable tissues using PINNs"
-        authors:
-          - De Santis, E.
-          - Cappellini, G.
-          - Vendittelli, M.
-        journal: submitted to RO-MAN25
       - title: "Adaptive Estimation of Pennes' Bio-Heat Equation: Observer Design and PINNs-based Implementation"
         authors:
           - Cappellini, G.
@@ -285,6 +282,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-05-17'
+  date: '2025-06-28'
   render_command:
   bold_keywords: []

@@ -3,7 +3,7 @@
 
 #let name = "Guglielmo Cappellini"
 #let locale-catalog-page-numbering-style = context { "Guglielmo Cappellini - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in May 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in June 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -477,7 +477,7 @@
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"AI-based solution methods for PDEs with application to Oncological Hyperthermia\". Tutored by prof. M. Vendittelli \(Medical Robotics\), co-funded by Medlogix Srl.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Non-invasive temperature estimation in hyperthermia \(HT\) treatment for decision support;],[Research on Radiation Oncology, Control Engineering, and Deep Learning;],[Visiting period at Department of Radiation Oncology, Amsterdam UMC;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Foundamentals of Automation\", and \"Medical Robotics\";],[PhD thesis defence will be on May 30th, 2025.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Non-invasive temperature estimation in hyperthermia \(HT\) treatment for decision support;],[Research on Radiation Oncology, Control Engineering, and Deep Learning;],[Visiting period at Department of Radiation Oncology, Amsterdam UMC;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Fundamentals of Automation\" for the academic year 2022-2023 \(40 hours\), and 2024-2025 \(80 hours\); supervisor for 3 final projects of \"Medical Robotics\"; supervisor for MSc and BSc thesis students;],[PhD thesis defended on May 30th, 2025 with Excellent classification.],)
   ],
   right-content: [
     Rome, IT
@@ -538,12 +538,12 @@ Sept 2015 – Nov 2017
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development, innovation and certification of medical and non-medical devices for healthcare \(Rome Technopole Spoke 6, FP4\). Supervised by prof. M. Vendittelli \(Medical Robotics\).])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to Oncological Hyperthermia;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality models for medical training;],[Future projects involve the use of AI on Big Data to find correlations between minimally invasive screening tests and the onset of cancer.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to Oncological Hyperthermia;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality models for medical training; preliminary results to be submitted for publication.],)
   ],
   right-content: [
     Rome, IT
 
-Jan 1st, 2025
+Jan 2025 – Dec 2025
   ],
 )
 
@@ -583,11 +583,28 @@ Dec 2020 – May 2021
 
 
 
+== Projects
+
+
+
+#one-col-entry(
+  content: [
+    #strong[AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;],[doi: 10.1007\/s42979-024-02757-w],)
+  ],
+)
+
+
+
 == Skills
 
 
 #one-col-entry(
-  content: [#strong[Programming & Scientific Computing:] Expert in Python for scientific computing and AI \(PyTorch, NumPy, SciPy\), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
+  content: [#strong[Programming & Scientific Computing:] Expert in Python for scientific computing and AI \(PyTorch, NumPy, SciPy\), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; experienced with relational databases, SQL, and secure data environments; working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -607,7 +624,7 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Interests:] Experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics]
+  content: [#strong[Interests:] Interested in phenomics and multi-omics data; experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics]
 )
 
 
@@ -645,15 +662,6 @@ Dec 2020 – May 2021
 
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content:[
-  #strong[Real-time simulation of deformable tissues using PINNs]
-
-  #v(-design-text-leading)
-  #v(design-highlights-top-margin);De Santis, E., Cappellini, G., Vendittelli, M.
-
-#v(design-highlights-top-margin - design-text-leading)submitted to RO-MAN25])
-
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(content:[
   #strong[Adaptive Estimation of Pennes' Bio-Heat Equation: Observer Design and PINNs-based Implementation]
 
   #v(-design-text-leading)
@@ -675,7 +683,7 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- current member of \"Dimensione Brama,\" a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
+  content: [- current member of \"Dimensione Brama\", a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
