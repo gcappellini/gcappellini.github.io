@@ -24,13 +24,13 @@ cv:
         start_date: 2022-01
         end_date: 2024-12
         location: Rome, IT
-        summary: '"AI-based solution methods for PDEs with application to Oncological Hyperthermia". Tutored by prof. M. Vendittelli (Medical Robotics), co-funded by Medlogix Srl.'
+        summary: '"AI-based solution methods for PDEs with application to oncological hyperthermia". Tutored by prof. M. Vendittelli (Medical Robotics), co-funded by Medlogix Srl.'
         highlights:
           - Created and maintain a [GitHub repository](https://github.com/gcappellini/pinns-bioheat-experiments.git) for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;
           - Two-papers work presented at IEEE CDC 2023, Singapore;
-          - Tutor of "Fundamentals of Automation" (AY 2022/2023 and AY 2024/2025); 
+          - Tutor of "Fundamentals of Automation", AY 2022/2023 and 2024/2025; 
           - Supervisor for 3 final projects of "Medical Robotics", and a BSc thesis student;
-          - PhD thesis defended on May 30th, 2025 with Excellent classification.
+          - '[PhD thesis](https://hdl.handle.net/11573/1740410) defended on May 30th, 2025 with Excellent classification.'
       - institution: Sapienza Università di Roma
         area: Nuclear Engineering
         degree: MSc
@@ -60,7 +60,7 @@ cv:
         location: Rome, IT
         summary: Development, innovation and certification of medical and non-medical devices for healthcare (Rome Technopole Spoke 6, FP4). Supervised by prof. M. Vendittelli.
         highlights:
-          - Extending the research on AI-based solution methods for PDEs with application to Oncological hyperthermia; 
+          - Extending the research on AI-based solution methods for PDEs with application to oncological hyperthermia; 
           - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;
           - Interest on graph convolutional neural networks (GNNs) for the study of complex systems, with application to the analysis of multi-omics data.
       - company: Department of Radiation Oncology, Amsterdam UMC Hospital
@@ -82,18 +82,22 @@ cv:
         summary: '"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy" ([Frantellizzi, De Vincentis et. al.](https://doi.org/10.1364/OMP.2021.OTu1E.5))'
         highlights:
           - Research on Radiopharmacology, Nanomedicine, and Nanophotonics;
-          - Modeling and simulation of microfluidic devices for radiolabeled nanoparticles;
+          - Modeling and simulation of microfluidic devices for radiolabeled nanoparticles.
     projects:
       - name: "AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health ([Reference](https://doi.org/10.1007/s42979-024-02757-w))"
         summary: 'Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe'
         highlights:
           - Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;
-          - Experience with relational databases, SQL, and secure data environments;
+          - Database management and SQL implementation for unified data systems;
+          - Working within secure data environments with large-scale healthcare datasets;
+          - Gaining experience with relational databases and clinical data structures.
     skills:
       - label: Programming & Scientific Computing
-        details: 'Expert in Python for scientific computing and AI (PyTorch, NumPy, SciPy), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
+        details: 'Expert in Python for data analysis and AI (PyTorch, NumPy, SciPy, pandas); working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
       - label: Mathematics
         details: 'Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications.'
+      - label: Clinical Data & Terminologies
+        details: Developing knowledge of controlled clinical terminologies (ICD-10, SNOMED CT, dm+d); experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures.
       - label: Languages
         details: 'English (fluent, IELTS Academic: 7.5), Spanish, Italian (native).'
       - label: Teaching & Mentorship
@@ -135,8 +139,8 @@ cv:
     extracurricular_activities:
       - bullet: 'Professional drummer and musical director with extensive performance background across multiple genres;' 
       - bullet: 'Early experiences in orchestra; co-founded bands including "[Subba and the Roots](https://open.spotify.com/artist/46X75UZxkrPJP2i1QDS4Cj?si=aldenDhPSReEZyBCH509Cw)" and "[La Situa](https://open.spotify.com/artist/5HhqNWiVXIimZrNwYLQ2FV?si=sJqBMnANQUS5EiWF8GO1oA)"; secured national touring grant (NuovoIMAIE 2018, €15k); formal jazz studies with renowned drummers (M. Guiliana, R. Gatto, M. Campanale, D. Panza, G. de Rienzo, F. Mendolia);'
-      - bullet: 'current member of "[Dimensione Brama](https://www.instagram.com/dimensionebrama/)", a multidisciplinary ensemble combining theatrical and musical performance (12th place finalists in XFactor18, 2024);'
-      - bullet: 'more than 500 concerts and 3 albums released; experience in studio recording and production. [My hands on these!](https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=e98c19efefb94af7)'
+      - bullet: 'Current member of "[Dimensione Brama](https://www.instagram.com/dimensionebrama/)", a multidisciplinary ensemble combining theatrical and musical performance (12th place finalists in XFactor18, 2024);'
+      - bullet: 'More than 500 concerts and 3 albums released; experience in studio recording and production. [My hands on these!](https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=e98c19efefb94af7)'
 design:
   theme: classic
   page:

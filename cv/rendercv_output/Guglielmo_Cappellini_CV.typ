@@ -475,9 +475,9 @@
     #strong[National PhD Program, PON R&I 2014-2020], AI for Healthcare
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"AI-based solution methods for PDEs with application to Oncological Hyperthermia\". Tutored by prof. M. Vendittelli \(Medical Robotics\), co-funded by Medlogix Srl.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"AI-based solution methods for PDEs with application to oncological hyperthermia\". Tutored by prof. M. Vendittelli \(Medical Robotics\), co-funded by Medlogix Srl.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Created and maintain a #link("https://github.com/gcappellini/pinns-bioheat-experiments.git")[GitHub repository] for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Fundamentals of Automation\" \(AY 2022\/2023 and AY 2024\/2025\);],[Supervisor for 3 final projects of \"Medical Robotics\", and a BSc thesis student;],[PhD thesis defended on May 30th, 2025 with Excellent classification.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Created and maintain a #link("https://github.com/gcappellini/pinns-bioheat-experiments.git")[GitHub repository] for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Fundamentals of Automation\", AY 2022\/2023 and 2024\/2025;],[Supervisor for 3 final projects of \"Medical Robotics\", and a BSc thesis student;],[#link("https://hdl.handle.net/11573/1740410")[PhD thesis] defended on May 30th, 2025 with Excellent classification.],)
   ],
   right-content: [
     Rome, IT
@@ -538,7 +538,7 @@ Sept 2015 – Nov 2017
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development, innovation and certification of medical and non-medical devices for healthcare \(Rome Technopole Spoke 6, FP4\). Supervised by prof. M. Vendittelli.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to Oncological hyperthermia;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest on graph convolutional neural networks \(GNNs\) for the study of complex systems, with application to the analysis of multi-omics data.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to oncological hyperthermia;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest on graph convolutional neural networks \(GNNs\) for the study of complex systems, with application to the analysis of multi-omics data.],)
   ],
   right-content: [
     Rome, IT
@@ -572,7 +572,7 @@ Dec 2023 – May 2024
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy\" \(#link("https://doi.org/10.1364/OMP.2021.OTu1E.5")[Frantellizzi, De Vincentis et. al.]\)])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Radiopharmacology, Nanomedicine, and Nanophotonics;],[Modeling and simulation of microfluidic devices for radiolabeled nanoparticles;],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Radiopharmacology, Nanomedicine, and Nanophotonics;],[Modeling and simulation of microfluidic devices for radiolabeled nanoparticles.],)
   ],
   right-content: [
     Rome, IT
@@ -594,7 +594,7 @@ Dec 2020 – May 2021
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;],[Experience with relational databases, SQL, and secure data environments;],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;],[Database management and SQL implementation for unified data systems;],[Working within secure data environments with large-scale healthcare datasets;],[Gaining experience with relational databases and clinical data structures.],)
   ],
 )
 
@@ -604,11 +604,15 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [#strong[Programming & Scientific Computing:] Expert in Python for scientific computing and AI \(PyTorch, NumPy, SciPy\), specifically with PINNs, GNN, and LSTM; proficient in MATLAB for numerical methods; working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
+  content: [#strong[Programming & Scientific Computing:] Expert in Python for data analysis and AI \(PyTorch, NumPy, SciPy, pandas\); working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [#strong[Mathematics:] Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Clinical Data & Terminologies:] Developing knowledge of controlled clinical terminologies \(ICD-10, SNOMED CT, dm+d\); experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -683,11 +687,11 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- current member of \"#link("https://www.instagram.com/dimensionebrama/")[Dimensione Brama]\", a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
+  content: [- Current member of \"#link("https://www.instagram.com/dimensionebrama/")[Dimensione Brama]\", a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- more than 500 concerts and 3 albums released; experience in studio recording and production. #link("https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=e98c19efefb94af7")[My hands on these!]],
+  content: [- More than 500 concerts and 3 albums released; experience in studio recording and production. #link("https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=e98c19efefb94af7")[My hands on these!]],
 )
 
 
