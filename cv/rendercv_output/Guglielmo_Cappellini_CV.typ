@@ -477,7 +477,7 @@
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"AI-based solution methods for PDEs with application to oncological hyperthermia\". Tutored by prof. M. Vendittelli \(Medical Robotics\), co-funded by Medlogix Srl.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Created and maintain a #link("https://github.com/gcappellini/pinns-bioheat-experiments.git")[GitHub repository] for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Fundamentals of Automation\", AY 2022\/2023 and 2024\/2025;],[Supervisor for 3 final projects of \"Medical Robotics\", and a BSc thesis student;],[#link("https://hdl.handle.net/11573/1740410")[PhD thesis] defended on May 30th, 2025 with Excellent classification.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Non-invasive temperature estimation in oncological hyperthermia \(HT\) treatment for decision support and optimization of dose delivery;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutoring and mentoring in \"Fundamentals of Automation\" and \"Medical Robotics\", with a focus on AI applications in healthcare;],[#link("https://hdl.handle.net/11573/1740410")[PhD thesis] defended on May 30th, 2025 with Excellent classification.],)
   ],
   right-content: [
     Rome, IT
@@ -538,7 +538,7 @@ Sept 2015 – Nov 2017
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development, innovation and certification of medical and non-medical devices for healthcare \(Rome Technopole Spoke 6, FP4\). Supervised by prof. M. Vendittelli.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to oncological hyperthermia;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest on graph convolutional neural networks \(GNNs\) for the study of complex systems, with application to the analysis of multi-omics data.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to oncological HT;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest on graph convolutional neural networks \(GNNs\) for the explainability of complex systems, with application to radiomics.],)
   ],
   right-content: [
     Rome, IT
@@ -553,7 +553,7 @@ Jan 2025 – present
     #strong[Department of Radiation Oncology, Amsterdam UMC Hospital], Visiting PhD Student
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research activities related to the study of hyperthermia \(HT\) techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Study of HT techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.])], column-gutter: 0cm)
 
 #v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Experimental emulation of HT treatment: a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;],[Supervised by Research Physicist H. Crezee and Associate Professor H. P. Kok.],)
   ],
@@ -572,7 +572,7 @@ Dec 2023 – May 2024
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy\" \(#link("https://doi.org/10.1364/OMP.2021.OTu1E.5")[Frantellizzi, De Vincentis et. al.]\)])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Radiopharmacology, Nanomedicine, and Nanophotonics;],[Modeling and simulation of microfluidic devices for radiolabeled nanoparticles.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Radiopharmacology, Nanomedicine, and Nanophotonics;],[Developed mathematical model for MATLAB simulation of microfluidic devices for radiolabeled nanoparticles.],)
   ],
   right-content: [
     Rome, IT
@@ -604,19 +604,19 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [#strong[Programming & Scientific Computing:] Expert in Python for data analysis and AI \(PyTorch, NumPy, SciPy, pandas\); working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
+  content: [#strong[Programming & Scientific Computing:] Expert in Python for multivariate statistics \(TensorFlow, PyTorch, NumPy, SciPy, pandas\) and AI \(FNN, GCNNs, CNN\); working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Mathematics:] Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications]
+  content: [#strong[Mathematics:] Specialized in computational methods for partial differential equations \(MATLAB\); strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Clinical Data & Terminologies:] Developing knowledge of controlled clinical terminologies \(ICD-10, SNOMED CT, dm+d\); experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures]
+  content: [#strong[Clinical Data & Terminologies:] Experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] English \(fluent, IELTS Academic: 7.5\), Spanish, Italian \(native\)]
+  content: [#strong[Languages:] English \(fluent, IELTS Academic: 7.5\), Spanish, Italian \(native\). Can understand written French \(not spoken, but eager to learn\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -624,11 +624,11 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Professional Qualifications:] Licensed Professional Industrial Engineer \(Abilitazione per l'esercizio della professione di Ingegnere Industriale, Esame di Stato Sez. A\)]
+  content: [#strong[Professional Qualifications:] Licensed Professional Industrial Engineer \(Esame di Stato Sez. A\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Interests:] Interested in phenomics and multi-omics data; experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics]
+  content: [#strong[Interests:] Interested in deep learning applications to radiotherapy and in radiomics; experienced in coordinating people with different backgrounds on the same goal; interdisciplinary research background bridging engineering and medical physics]
 )
 
 

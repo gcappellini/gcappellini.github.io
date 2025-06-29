@@ -26,10 +26,13 @@ cv:
         location: Rome, IT
         summary: '"AI-based solution methods for PDEs with application to oncological hyperthermia". Tutored by prof. M. Vendittelli (Medical Robotics), co-funded by Medlogix Srl.'
         highlights:
-          - Created and maintain a [GitHub repository](https://github.com/gcappellini/pinns-bioheat-experiments.git) for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;
+          # - Created and maintain a [GitHub repository](https://github.com/gcappellini/pinns-bioheat-experiments.git) for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;
+          - Non-invasive temperature estimation in oncological hyperthermia (HT) treatment for decision support and optimization of dose delivery;
           - Two-papers work presented at IEEE CDC 2023, Singapore;
-          - Tutor of "Fundamentals of Automation", AY 2022/2023 and 2024/2025; 
-          - Supervisor for 3 final projects of "Medical Robotics", and a BSc thesis student;
+          # - Created and maintain a [GitHub repository](https://github.com/gcappellini/pinns-bioheat-experiments.git) for the PINNs-based implementation of a multiple-model adaptive observer for bio-heat transfer;
+          # - Tutor of "Fundamentals of Automation", AY 2022/2023 and 2024/2025; 
+          # - Supervisor for 3 final projects of "Medical Robotics", and a BSc thesis student;
+          - Tutoring and mentoring in "Fundamentals of Automation" and "Medical Robotics", with a focus on AI applications in healthcare;
           - '[PhD thesis](https://hdl.handle.net/11573/1740410) defended on May 30th, 2025 with Excellent classification.'
       - institution: Sapienza Università di Roma
         area: Nuclear Engineering
@@ -60,16 +63,16 @@ cv:
         location: Rome, IT
         summary: Development, innovation and certification of medical and non-medical devices for healthcare (Rome Technopole Spoke 6, FP4). Supervised by prof. M. Vendittelli.
         highlights:
-          - Extending the research on AI-based solution methods for PDEs with application to oncological hyperthermia; 
+          - Extending the research on AI-based solution methods for PDEs with application to oncological HT; 
           - AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;
-          - Interest on graph convolutional neural networks (GNNs) for the study of complex systems, with application to the analysis of multi-omics data.
+          - Interest on graph convolutional neural networks (GNNs) for the explainability of complex systems, with application to radiomics.
       - company: Department of Radiation Oncology, Amsterdam UMC Hospital
         position: Visiting PhD Student
         date:
         start_date: 2023-12
         end_date: 2024-05
         location: Amsterdam, NL
-        summary: Research activities related to the study of hyperthermia (HT) techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.
+        summary: Study of HT techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.
         highlights:
           - 'Experimental emulation of HT treatment: a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;'
           - Supervised by Research Physicist H. Crezee and Associate Professor H. P. Kok.
@@ -82,7 +85,7 @@ cv:
         summary: '"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy" ([Frantellizzi, De Vincentis et. al.](https://doi.org/10.1364/OMP.2021.OTu1E.5))'
         highlights:
           - Research on Radiopharmacology, Nanomedicine, and Nanophotonics;
-          - Modeling and simulation of microfluidic devices for radiolabeled nanoparticles.
+          - Developed mathematical model for MATLAB simulation of microfluidic devices for radiolabeled nanoparticles.
     projects:
       - name: "AMD‑STITCH: Sapienza Information-Based Technology InnovaTion Center for Health ([Reference](https://doi.org/10.1007/s42979-024-02757-w))"
         summary: 'Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe'
@@ -93,19 +96,19 @@ cv:
           - Gaining experience with relational databases and clinical data structures.
     skills:
       - label: Programming & Scientific Computing
-        details: 'Expert in Python for data analysis and AI (PyTorch, NumPy, SciPy, pandas); working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
+        details: 'Expert in Python for multivariate statistics (TensorFlow, PyTorch, NumPy, SciPy, pandas) and AI (FNN, GCNNs, CNN); working knowledge of C++; version control with Git/GitHub; familiar with reinforcement learning, containerization (Docker), and high-performance computing environments; good understanding of Web, app development, and DevOps.'
       - label: Mathematics
-        details: 'Specialized in computational methods for partial differential equations; strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications.'
+        details: 'Specialized in computational methods for partial differential equations (MATLAB); strong foundation in numerical analysis, calculus, linear algebra, and optimization techniques for machine learning applications.'
       - label: Clinical Data & Terminologies
-        details: Developing knowledge of controlled clinical terminologies (ICD-10, SNOMED CT, dm+d); experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures.
+        details: Experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures.
       - label: Languages
-        details: 'English (fluent, IELTS Academic: 7.5), Spanish, Italian (native).'
+        details: 'English (fluent, IELTS Academic: 7.5), Spanish, Italian (native). Can understand written French (not spoken, but eager to learn).'
       - label: Teaching & Mentorship
         details: 'Passionate educator with formal pedagogical training (Percorso formativo 24 CFU in anthropological-psychological-pedagogical disciplines and teaching methodologies); committed to clear communication of complex technical concepts across disciplines.'
       - label: Professional Qualifications
-        details: "Licensed Professional Industrial Engineer (Abilitazione per l'esercizio della professione di Ingegnere Industriale, Esame di Stato Sez. A)."
+        details: "Licensed Professional Industrial Engineer (Esame di Stato Sez. A)."
       - label: Interests
-        details: 'Interested in phenomics and multi-omics data; experienced in coordinating people with different backgrounds on the same goal; active in the academic community with a focus on AI applications for healthcare; interdisciplinary research background bridging engineering and medical physics.'
+        details: 'Interested in deep learning applications to radiotherapy and in radiomics; experienced in coordinating people with different backgrounds on the same goal; interdisciplinary research background bridging engineering and medical physics.'
     publications:
       - title: "Adaptive Estimation of the Pennes' Bio-Heat Equation - I: Observer Design"
         authors:
