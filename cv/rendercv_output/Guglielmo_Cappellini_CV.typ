@@ -3,7 +3,7 @@
 
 #let name = "Guglielmo Cappellini"
 #let locale-catalog-page-numbering-style = context { "Guglielmo Cappellini - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in June 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in July 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -477,7 +477,7 @@
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"AI-based solution methods for PDEs with application to oncological hyperthermia\". Tutored by prof. M. Vendittelli \(Medical Robotics\), co-funded by Medlogix Srl.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Non-invasive temperature estimation in oncological hyperthermia \(HT\) treatment for decision support and optimization of dose delivery;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutoring and mentoring in \"Fundamentals of Automation\" and \"Medical Robotics\", with a focus on AI applications in healthcare;],[#link("https://hdl.handle.net/11573/1740410")[PhD thesis] defended on May 30th, 2025 with Excellent classification.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Non-invasive temperature estimation in oncological hyperthermia \(HT\) treatment for decision support and optimization of dose delivery. Developed and validated a PINNs-based multiple-model adaptive observer;],[Two-papers work presented at IEEE CDC 2023, Singapore;],[Tutor of \"Fundamentals of Automation\", AY 2022\/2023 and 2024\/2025, with a focus on AI applications in healthcare;],[Supervisor for 3 final projects of \"Medical Robotics\", and a BSc thesis student;],[#link("https://hdl.handle.net/11573/1740410")[PhD thesis] defended on May 30th, 2025 with Excellent classification.],)
   ],
   right-content: [
     Rome, IT
@@ -497,7 +497,7 @@ Jan 2022 – Dec 2024
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Thesis: \"Study and characterization of radiolabeled nanovectors for application in precision molecular medicine\", EQF 7, 108\/110.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Studies on Nuclear Physics, Thermodynamics, and Radiation Protection;],[Supervised by prof. R. Remetti \(Radiation Protection for Nuclear Medicine\).],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Supervised by prof. R. Remetti \(Radiation Protection for Nuclear Medicine\).],)
   ],
   right-content: [
     Rome, IT
@@ -538,7 +538,7 @@ Sept 2015 – Nov 2017
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development, innovation and certification of medical and non-medical devices for healthcare \(Rome Technopole Spoke 6, FP4\). Supervised by prof. M. Vendittelli.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI-based solution methods for PDEs with application to oncological HT;],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest on graph convolutional neural networks \(GNNs\) for the explainability of complex systems, with application to radiomics.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI for oncological HT, considering internal measuring points and the use of graph neural networks \(GNNs\);],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest in GNNs for modelling complex systems, and for handling multi-omics data.],)
   ],
   right-content: [
     Rome, IT
@@ -553,9 +553,9 @@ Jan 2025 – present
     #strong[Department of Radiation Oncology, Amsterdam UMC Hospital], Visiting PhD Student
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Study of HT techniques and its clinical application, to investigate and validate new solutions to improve the real time controls and to estimate temperature at depth in superficial HT, and to participate in other ongoing projects in the same research area.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Study of HT techniques and its clinical application, to investigate and to validate new solutions to improve the real time controls, and to estimate temperature at depth in superficial HT.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Experimental emulation of HT treatment: a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;],[Supervised by Research Physicist H. Crezee and Associate Professor H. P. Kok.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Reached experimental stage of my research project through experimental emulation of HT treatment, comprising a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;],[Working in a transdisciplinary environment of medical physicists, clinicians, engineers, and data scientists;],)
   ],
   right-content: [
     Amsterdam, NL
@@ -572,7 +572,7 @@ Dec 2023 – May 2024
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [\"99mTc-labeled Keratin-coated gold nanoparticles for selective anticancer photothermal therapy\" \(#link("https://doi.org/10.1364/OMP.2021.OTu1E.5")[Frantellizzi, De Vincentis et. al.]\)])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Radiopharmacology, Nanomedicine, and Nanophotonics;],[Developed mathematical model for MATLAB simulation of microfluidic devices for radiolabeled nanoparticles.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on Theranostic, Radiopharmacology, Nanomedicine, and Nanophotonics;],[Developed mathematical model for MATLAB simulation of microfluidic devices for radiolabeled nanoparticles.],)
   ],
   right-content: [
     Rome, IT
@@ -594,7 +594,18 @@ Dec 2020 – May 2021
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Ontology-based data preparation on electronic medical records of Italian diabetes patients within a 13 years timeframe])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;],[Database management and SQL implementation for unified data systems;],[Working within secure data environments with large-scale healthcare datasets;],[Gaining experience with relational databases and clinical data structures.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Data modeling and data cleaning, providing effective techniques for setting up a unified and shared database;],[Working within secure data environments with large-scale healthcare datasets;],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+
+#one-col-entry(
+  content: [
+    #strong[ROBHOT: a robot-assisted technology for superficial hyperthermia treatments \(#link("https://www.youtube.com/watch?v=rNxMaD-teNo")[YouTube]\)]
+
+    #v(-design-text-leading)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Grant application for EIC Accelerator \(work package on AI-based temperature estimation\), and for Rome Technopole.])], column-gutter: 0cm)
   ],
 )
 
@@ -604,7 +615,7 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [#strong[Programming & Scientific Computing:] Expert in Python for multivariate statistics \(TensorFlow, PyTorch, NumPy, SciPy, pandas\) and AI \(FNN, GCNNs, CNN\); working knowledge of C++; version control with Git\/GitHub; familiar with reinforcement learning, containerization \(Docker\), and high-performance computing environments; good understanding of Web, app development, and DevOps]
+  content: [#strong[Programming & Scientific Computing:] Expert in Python for computational modelling and artificial intelligence \(PyTorch, Sklearn, NumPy, SciPy, pandas\), specifically with PINNs, CNNs, and GNNs; version control with GitHub; familiar with reinforcement learning, containerization, and high-performance computing; good understanding of Web and app development]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -612,11 +623,11 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Clinical Data & Terminologies:] Experience working with large-scale healthcare datasets; strong foundation in data standardization and clinical data structures]
+  content: [#strong[Clinical Data:] Experience working with large-scale healthcare datasets in alignment with FAIR data principles]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Languages:] English \(fluent, IELTS Academic: 7.5\), Spanish, Italian \(native\). Can understand written French \(not spoken, but eager to learn\)]
+  content: [#strong[Languages:] English \(fluent, IELTS Academic: 7.5\), Spanish, Italian \(native\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -628,7 +639,7 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Interests:] Interested in deep learning applications to radiotherapy and in radiomics; experienced in coordinating people with different backgrounds on the same goal; interdisciplinary research background bridging engineering and medical physics]
+  content: [#strong[Interests:] Committed to deep learning applications in radiation oncology and treatment planning; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics]
 )
 
 
@@ -679,15 +690,11 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [- Professional drummer and musical director with extensive performance background across multiple genres;],
+  content: [- Independent drummer and musical director with extensive performance background across multiple genres;],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [- Early experiences in orchestra; co-founded bands including \"#link("https://open.spotify.com/artist/46X75UZxkrPJP2i1QDS4Cj?si=aldenDhPSReEZyBCH509Cw")[Subba and the Roots]\" and \"#link("https://open.spotify.com/artist/5HhqNWiVXIimZrNwYLQ2FV?si=sJqBMnANQUS5EiWF8GO1oA")[La Situa]\"; secured national touring grant \(NuovoIMAIE 2018, €15k\); formal jazz studies with renowned drummers \(M. Guiliana, R. Gatto, M. Campanale, D. Panza, G. de Rienzo, F. Mendolia\);],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Current member of \"#link("https://www.instagram.com/dimensionebrama/")[Dimensione Brama]\", a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
+  content: [- Early experiences in orchestra; co-founded bands including \"#link("https://open.spotify.com/artist/46X75UZxkrPJP2i1QDS4Cj?si=aldenDhPSReEZyBCH509Cw")[Subba and the Roots]\" and \"#link("https://open.spotify.com/artist/5HhqNWiVXIimZrNwYLQ2FV?si=sJqBMnANQUS5EiWF8GO1oA")[La Situa]\"; secured national touring grant \(NuovoIMAIE 2018, €15k\); formal jazz studies with renowned drummers \(M. Guiliana, R. Gatto, M. Campanale, D. Panza, G. de Rienzo, F. Mendolia\); current member of \"#link("https://www.instagram.com/dimensionebrama/")[Dimensione Brama]\", a multidisciplinary ensemble combining theatrical and musical performance \(12th place finalists in XFactor18, 2024\);],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
