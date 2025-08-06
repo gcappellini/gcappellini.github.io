@@ -3,7 +3,7 @@
 
 #let name = "Guglielmo Cappellini"
 #let locale-catalog-page-numbering-style = context { "Guglielmo Cappellini - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in July 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Aug 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -538,7 +538,7 @@ Sept 2015 – Nov 2017
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Development, innovation and certification of medical and non-medical devices for healthcare \(Rome Technopole Spoke 6, FP4\). Supervised by prof. M. Vendittelli.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI for oncological HT, considering internal measuring points and the use of graph neural networks \(GNNs\);],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest in GNNs for modelling complex systems, and for handling multi-omics data.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Extending the research on AI for oncological HT, considering internal measuring points and the use of graph neural networks \(GNNs\);],[AI-based methods for real-time simulation of deformable tissues with application to interactive virtual reality for medical training. Preliminary results under submission;],[Interest in GNNs and RNNs for modelling complex systems.],)
   ],
   right-content: [
     Rome, IT
@@ -555,7 +555,7 @@ Jan 2025 – present
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Study of HT techniques and its clinical application, to investigate and to validate new solutions to improve the real time controls, and to estimate temperature at depth in superficial HT.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Reached experimental stage of my research project through experimental emulation of HT treatment, comprising a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;],[Working in a transdisciplinary environment of medical physicists, clinicians, engineers, and data scientists;],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Experimental emulation of HT treatment: a system to simulate perfusion, a muscle-equivalent phantom, a superficial EM applicator, and the thermometry system;],[Transdisciplinary environment of medical physicists, engineers, and data scientists;],)
   ],
   right-content: [
     Amsterdam, NL
@@ -615,7 +615,7 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [#strong[Programming & Scientific Computing:] Expert in Python for computational modelling and artificial intelligence \(PyTorch, Sklearn, NumPy, SciPy, pandas\), specifically with PINNs, CNNs, and GNNs; version control with GitHub; familiar with reinforcement learning, containerization, and high-performance computing; good understanding of Web and app development]
+  content: [#strong[Programming & Scientific Computing:] Expert in Python for computational modelling and artificial intelligence \(PyTorch, Sklearn, NumPy, SciPy, pandas\), specifically with PINNs, CNNs, and GNNs; version control with GitHub; familiar with reinforcement learning, quantum computing, and high-performance computing; good understanding of Web and app development]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -690,7 +690,7 @@ Dec 2020 – May 2021
 
 
 #one-col-entry(
-  content: [- Independent drummer and musical director with extensive performance background across multiple genres;],
+  content: [- Independent drummer with extensive performance background across multiple genres;],
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
