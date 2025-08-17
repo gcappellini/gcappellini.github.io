@@ -111,7 +111,7 @@ cv:
       - label: Professional Qualifications
         details: "Licensed Professional Industrial Engineer (Esame di Stato Sez. A)."
       - label: Interests
-        details: 'Committed to deep learning applications in radiation oncology and treatment planning; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics.'
+        details: 'Committed to deep learning applications in engineering; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics.'
         # details: 'Committed to deep learning applications in healthcare; experienced in coordinating people with different backgrounds; independent and creative mindset.'
     publications:
       - title: "Adaptive Estimation of the Pennes' Bio-Heat Equation - I: Observer Design"

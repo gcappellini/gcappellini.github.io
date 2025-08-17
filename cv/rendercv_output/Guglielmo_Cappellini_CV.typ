@@ -639,7 +639,7 @@ Dec 2020 – May 2021
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Interests:] Committed to deep learning applications in radiation oncology and treatment planning; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics]
+  content: [#strong[Interests:] Committed to deep learning applications in engineering; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics]
 )
 
 

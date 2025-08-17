@@ -76,7 +76,7 @@
 - Languages: English (fluent, IELTS Academic: 7.5), Spanish, Italian (native).
 - Teaching & Mentorship: Passionate educator with formal pedagogical training (Percorso formativo 24 CFU in anthropological-psychological-pedagogical disciplines and teaching methodologies); committed to clear communication of complex technical concepts across disciplines.
 - Professional Qualifications: Licensed Professional Industrial Engineer (Esame di Stato Sez. A).
-- Interests: Committed to deep learning applications in radiation oncology and treatment planning; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics.
+- Interests: Committed to deep learning applications in engineering; independent and creative mindset; interdisciplinary research background bridging nuclear engineering and medical physics.
 # Publications
 
 ## Adaptive Estimation of the Pennes' Bio-Heat Equation - I: Observer Design ([10.1109/CDC49753.2023.10383905](https://doi.org/10.1109/CDC49753.2023.10383905))
