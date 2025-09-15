@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Guglielmo Cappellini / Academic Portfolio"
+title                    : "Guglielmo Cappellini"
 title_separator          : "-"
 name                     : &name "Guglielmo Cappellini"
 description              : &description "Guglielmo Cappellini's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
