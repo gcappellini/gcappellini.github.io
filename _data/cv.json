@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Guglielmo Cappellini",
+    "email": "cappellini@diag.uniroma1.it",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://gcappellini.github.io",
+    "summary": "Currently employed at Sapienza Università di Roma. Research interests include estimation and control of distributed parameter systems, machine learning for control, and biomedical applications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Rome",
+      "countryCode": "IT",
+      "region": "Lazio"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=uNUfgQsAAAAJ&hl=it"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0002-4247-8980"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/gcappellini"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sapienza Università di Roma",
+      "area": "Ph.D in AI for Healthcare",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sapienza Università di Roma",
+      "area": "M.S. in Energy and Nuclear Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Sapienza Università di Roma",
+      "area": "B.S. in Energy and Nuclear Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +66,51 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Adaptive estimation of the Pennes' Bio-Heat equation-I: Observer design",
+      "publisher": "2023 62nd IEEE Conference on Decision and Control (CDC)",
+      "releaseDate": "2023-12-13",
+      "website": "http://gcappellini.github.io/files/CDC23_BHObsI.pdf",
+      "summary": "."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Adaptive estimation of the Pennes' Bio-Heat equation-II: a NN-based implementation for real-time applications",
+      "publisher": "2023 62nd IEEE Conference on Decision and Control (CDC)",
+      "releaseDate": "2023-12-13",
+      "website": "http://gcappellini.github.io/files/CDC23_BHObsII.pdf",
+      "summary": "."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adaptive Estimation of Pennes' Bio-Heat Equation",
+      "publisher": "2023 I-RIM Conference",
+      "releaseDate": "2023-10-20",
+      "website": "http://gcappellini.github.io/files/I_RIM23_PDEObs.pdf",
+      "summary": "."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "AI-based solution methods for PDEs with application to Oncological Hyperthermia",
+      "event": "PhD Thesis Defense",
+      "date": "2025-05-30",
+      "location": "Sapienza Università di Roma",
+      "description": "PhD thesis."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Medical Robotics",
+      "institution": "Dept. of Computer, Automation, and Management Engineering, Sapienza Università di Roma",
+      "date": "2022-01-01",
+      "role": "Final project supervisor",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Fundamentals of Automation",
+      "institution": "Dept. of Information, Electronics, and Telecommunications Engineering, Sapienza Università di Roma",
+      "date": "2024-01-01",
+      "role": "Tutor",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
