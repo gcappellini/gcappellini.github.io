@@ -55,7 +55,7 @@ I have teaching and supervision experience in:
 Outside academia, I am a passionate **musician and drummer**.  
 I have performed in orchestras, indie and rock bands, and most recently appeared with **Dimensione Brama** on *X Factor 2024*.  
 
-🎶 Explore my musical journey here: [YouTube Playlist](https://youtube.com/playlist?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc&si=7pURsO5hBOjsqitl)  
+🎶 Explore my musical journey here: [YouTube Playlist](https://youtube.com/playlist?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc&si=7pURsO5hBOjsqitl) | [Spotify Playlist](https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=c4d79f27f83b4384)
 
 ---
 
