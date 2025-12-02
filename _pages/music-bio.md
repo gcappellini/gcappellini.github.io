@@ -54,8 +54,6 @@ author_profile: true
 }
 </style>
 
-# Music
-
 ## Drummer & Music Multi-Tool
 
 ---

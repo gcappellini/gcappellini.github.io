@@ -54,7 +54,6 @@ author_profile: true
 }
 </style>
 
-# Research
 
 ## AI for Partial Differential Equations
 ### Sapienza Università di Roma
