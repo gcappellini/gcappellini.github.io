@@ -12,32 +12,34 @@ main:
     url: /
 
   - title: "Research"
-    children:
-      - title: "Publications"
-        url: /publications/
+    url: /publications/
+    # children:
+    #   - title: "Publications"
+    #     url: /publications/
 
-      - title: "Talks"
-        url: /talks/
+    #   - title: "Talks"
+    #     url: /talks/
 
-      - title: "Teaching"
-        url: /teaching/
+    #   - title: "Teaching"
+    #     url: /teaching/
       
-      - title: "CV"
-        url: /cv/
+    #   - title: "CV"
+    #     url: /cv/
   
   - title: "Music"
-    children:
-      - title: "Bio"
-        url: /music-bio/
+    url: /music-bio/
+    # children:
+    #   - title: "Bio"
+    #     url: /music-bio/
 
-      - title: "Discography"
-        url: /discography/
+    #   - title: "Discography"
+    #     url: /discography/
 
-      - title: "Performances"
-        url: /performances/
+    #   - title: "Performances"
+    #     url: /performances/
       
-      - title: "Gigs"
-        url: /gigs/
+    #   - title: "Gigs"
+    #     url: /gigs/
     
   - title: "Contact"
     url: /contact/
