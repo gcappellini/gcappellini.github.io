@@ -1,11 +1,88 @@
 ---
 layout: single
-title: "Music Bio"
+title: "Music"
 permalink: /music-bio/
 author_profile: true
 ---
 
-# Music Bio
+<style>
+.music-nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0 3em 0;
+}
+
+.music-nav-item {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  padding: 1.5em;
+  border-radius: 8px;
+  text-align: center;
+  transition: all 0.3s;
+  border-left: 4px solid #c8102e;
+  text-decoration: none;
+  display: block;
+}
+
+.music-nav-item:hover {
+  background: linear-gradient(135deg, #c8102e 0%, #991b1b 100%);
+  color: white;
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(200, 16, 46, 0.3);
+}
+
+.music-nav-item h3 {
+  margin: 0 0 0.5em 0;
+  font-size: 1.3em;
+  color: #c8102e;
+  transition: color 0.3s;
+}
+
+.music-nav-item:hover h3 {
+  color: white;
+}
+
+.music-nav-item p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #666;
+  transition: color 0.3s;
+}
+
+.music-nav-item:hover p {
+  color: rgba(255, 255, 255, 0.9);
+}
+</style>
+
+# Music
+
+## Drummer & Music Multi-Tool
+
+---
+
+<div class="music-nav">
+  <a href="/music-bio/" class="music-nav-item" style="border-left-color: #991b1b; background: linear-gradient(135deg, #991b1b 0%, #7f1d1d 100%); color: white;">
+    <h3 style="color: white;">🎵 Bio</h3>
+    <p style="color: rgba(255,255,255,0.9);">My musical journey</p>
+  </a>
+  
+  <a href="/discography/" class="music-nav-item">
+    <h3>💿 Discography</h3>
+    <p>Albums, EPs, and singles</p>
+  </a>
+  
+  <a href="/performances/" class="music-nav-item">
+    <h3>🎥 Performances</h3>
+    <p>Videos and live recordings</p>
+  </a>
+  
+  <a href="/gigs/" class="music-nav-item">
+    <h3>📅 Gigs</h3>
+    <p>Upcoming and past shows</p>
+  </a>
+</div>
+
+---
 
 ## Musical Heritage
 
@@ -27,7 +104,7 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 - La Situa (2018–present)
 - Dimensione Brama (2021–present)
 
-**Session work:** Vikthor, Pheelow, Vingiano
+**Session work:** Edoardo Baroni, Gabriele Deca, Vikthor, Pheelow, Vingiano
 
 I've also explored theatrical performance, including "Mi chiamano sbandato" with Edoardo Pesce and Marcello Fonte (2018).
 
@@ -40,3 +117,7 @@ Currently, I'm captivated by the UK R&B/jazz scene—artists like Oscar Jerome a
 ## The Multi-Tool
 
 In the projects I'm involved in, I often take on roles beyond drumming: coordinator, artistic director, content creator, and data analyst. In 2018, my band Subba and the Roots was awarded a €15k NuovoIMAIE touring grant, giving me hands-on experience as legal representative and touring logistics coordinator. Since then, I've expanded into analyzing listener statistics, revenue data, and release performance—applying the same pattern-recognition mindset I use in AI research to understand what resonates with audiences. I handle A&R, band coordination, production workflow, recording sessions, music production, publishing, distribution, and rights-holder negotiation. The analytical approach I bring to music comes naturally; the same systematic thinking I apply to research helps me understand audiences, optimize releases, and coordinate complex projects.
+
+---
+
+**Want to collaborate?** [Get in touch →](/contact/)
