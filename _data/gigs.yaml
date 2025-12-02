@@ -1,0 +1,1516 @@
+gigs:
+- date: '2025-12-06'
+  band: SUBBA AND THE ROOTS
+  location: Why Another Studio
+  city: Roma
+  state: RM
+- date: '2025-11-29'
+  band: LA SITUA
+  location: Zalib
+  city: Roma
+  state: RM
+  event: La Situa n°8
+- date: '2025-10-11'
+  band: BRAMA
+  location: Corviale
+  city: Roma
+  state: RM
+  event: Romeria
+- date: '2025-09-12'
+  band: Cappellini Marchini
+  location: Orto bio
+  city: Roma
+  state: RM
+  event: Comple subba
+- date: '2025-09-06'
+  band: Cappellini Marchini Sanzò
+  location: ''
+  city: Roma
+  state: RM
+  event: Zelia
+- date: '2025-09-04'
+  band: BRAMA
+  location: Parco Schuster
+  city: Roma
+  state: RM
+  event: Renoize2025
+  featured: true
+- date: '2025-07-31'
+  band: Cappellini Marchini
+  location: Belvedere Roccavo
+  city: Castiglion Fiorentino
+  state: AR
+- date: '2025-07-29'
+  band: Cappellini Marchini
+  location: Hotel Canali
+  city: Rapallo
+  state: GE
+- date: '2025-07-25'
+  band: BRAMA
+  location: Città dell'altra economia
+  city: Roma
+  state: RM
+- date: '2025-07-10'
+  band: LA SITUA
+  location: Zalib
+  city: Roma
+  state: RM
+  event: La Si7ua
+- date: '2025-07-08'
+  band: BRAMA
+  location: Teatro India
+  city: Roma
+  state: RM
+  event: BEIRICORDI
+- date: '2025-06-13'
+  band: BRAMA
+  location: Eur Social Park
+  city: Roma
+  state: RM
+  event: Quindieverse
+- date: '2025-05-27'
+  band: Arioli Cappellini Marchini Sanzò
+  location: Mezé Bistrot
+  city: Roma
+  state: RM
+  event: Mezé in Jazz
+- date: '2025-05-17'
+  band: BRAMA
+  location: Palazzo Braschi
+  city: Roma
+  state: RM
+  event: Notte dei musei
+- date: '2025-05-10'
+  band: BRAMA
+  location: Circolo Ondina Generali
+  city: Roma
+  state: RM
+  event: 18esimo gianniti
+- date: '2025-04-27'
+  band: BRAMA
+  location: Piazza dei Sanniti
+  city: Roma
+  state: RM
+  event: Liberazione
+- date: '2025-04-24'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: Evento privato
+- date: '2025-03-18'
+  band: BRAMA
+  location: MSC Crociere
+  city: Civitavecchia
+  state: RM
+- date: '2025-03-06'
+  band: BRAMA
+  location: Alcazar
+  city: Roma
+  state: RM
+- date: '2024-12-24'
+  band: BRAMA
+  location: Santa Maria in Campitelli
+  city: Roma
+  state: RM
+  event: Bariona
+- date: '2024-12-23'
+  band: BRAMA
+  location: Santa Maria in Campitelli
+  city: Roma
+  state: RM
+  event: Bariona
+- date: '2024-09-07'
+  band: BRAMA
+  location: Carrozzerie N.O.T.
+  city: Roma
+  state: RM
+- date: '2024-09-06'
+  band: BRAMA
+  location: Carrozzerie N.O.T.
+  city: Roma
+  state: RM
+- date: '2024-08-20'
+  band: Arioli Cappellini Marchini
+  location: Antico Convento i Cappuccini
+  city: Montalcino
+  state: SI
+- date: '2024-07-09'
+  band: BRAMA
+  location: Klang
+  city: Roma
+  state: RM
+  event: Arezzo Wave
+- date: '2024-06-02'
+  band: BRAMA
+  location: Auditorium Parco della Musica
+  city: Roma
+  state: RM
+  event: Serata per Ernesto Assante
+- date: '2024-03-22'
+  band: SOLOPERISOCI
+  location: Ostello Bello
+  city: Napoli
+  state: ''
+- date: '2024-03-21'
+  band: SOLOPERISOCI
+  location: Sottoscala
+  city: Latina
+  state: LT
+- date: '2024-03-14'
+  band: BRAMA
+  location: Alcazar
+  city: Roma
+  state: RM
+- date: '2024-02-24'
+  band: SOLOPERISOCI
+  location: The Cage
+  city: Livorno
+  state: LI
+  featured: true
+- date: '2024-02-19'
+  band: SOLOPERISOCI
+  location: Freakout
+  city: Bologna
+  state: BO
+- date: '2024-02-18'
+  band: SOLOPERISOCI
+  location: Arci Bellezza
+  city: Milano
+  state: MI
+- date: '2023-12-31'
+  band: DA ZERO
+  location: Hotel San Carlo
+  city: Semogo
+  state: SO
+- date: '2023-12-22'
+  band: SOLOPERISOCI
+  location: Wishlist Club
+  city: Roma
+  state: RM
+  event: Festa di Radio Rock
+- date: '2023-12-21'
+  band: BRAMA
+  location: ASL disabili
+  city: Roma
+  state: RM
+- date: '2023-12-03'
+  band: BRAMA
+  location: Piazza Montagnola
+  city: Roma
+  state: RM
+- date: '2023-12-02'
+  band: LA SITUA
+  location: Il Palco
+  city: Roma
+  state: RM
+- date: '2023-11-19'
+  band: SOLOPERISOCI
+  location: Ostello Bello
+  city: Milano
+  state: MI
+- date: '2023-11-18'
+  band: SOLOPERISOCI
+  location: Mad Dog Social Club
+  city: Torino
+  state: TO
+- date: '2023-11-17'
+  band: SOLOPERISOCI
+  location: La Redazione
+  city: Roma
+  state: RM
+- date: '2023-11-11'
+  band: BRAMA
+  location: Spazio Mensa
+  city: Roma
+  state: RM
+- date: '2023-10-28'
+  band: DA ZERO
+  location: Brancaleone
+  city: Roma
+  state: RM
+- date: '2023-10-27'
+  band: SOLOPERISOCI
+  location: Monk
+  city: Roma
+  state: RM
+  event: Seituttolindie
+- date: '2023-10-24'
+  band: Tombini
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: 'Ep. 1: Beatificazione'
+- date: '2023-10-21'
+  band: Arioli Cappellini Marchini Sanzò
+  location: Palazzo delle Esposizioni
+  city: Roma
+  state: RM
+- date: '2023-10-01'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+- date: '2023-09-29'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+- date: '2023-09-23'
+  band: BRAMA
+  location: WPP magazzini generali
+  city: Roma
+  state: RM
+  event: Stra Gog
+- date: '2023-09-13'
+  band: SOLOPERISOCI
+  location: Terrazza Lanificio
+  city: Roma
+  state: RM
+- date: '2023-09-07'
+  band: LA SITUA
+  location: Riverbar
+  city: Roma
+  state: RM
+- date: '2023-09-07'
+  band: SUBBA AND THE ROOTS
+  location: Riverbar
+  city: Roma
+  state: RM
+- date: '2023-09-02'
+  band: DA ZERO
+  location: Brancaleone
+  city: Roma
+  state: RM
+- date: '2023-08-12'
+  band: SOLOPERISOCI
+  location: Il Faro
+  city: Ventotene
+  state: LT
+- date: '2023-08-11'
+  band: SOLOPERISOCI
+  location: Il Gabbiano
+  city: Ventotene
+  state: LT
+- date: '2023-08-02'
+  band: BRAMA
+  location: Garbatella
+  city: Roma
+  state: RM
+  event: M'illumino di teatro
+- date: '2023-07-25'
+  band: BRAMA
+  location: Terrazza Gianicolo
+  city: Roma
+  state: RM
+- date: '2023-07-22'
+  band: LA SITUA
+  location: ''
+  city: Roma
+  state: RM
+  event: Festa privata
+- date: '2023-07-20'
+  band: SOLOPERISOCI
+  location: Parco Appio
+  city: Roma
+  state: RM
+  event: Opening Post Nebbia
+- date: '2023-07-08'
+  band: BRAMA
+  location: Città dell'altra economia
+  city: Roma
+  state: RM
+  event: Kiwi Festival
+- date: '2023-07-08'
+  band: SOLOPERISOCI
+  location: Città dell'altra economia
+  city: Roma
+  state: RM
+  event: Kiwi Festival
+- date: '2023-07-08'
+  band: VINGIANO
+  location: Città dell'altra economia
+  city: Roma
+  state: RM
+  event: Kiwi Festival
+- date: '2023-07-06'
+  band: SOLOPERISOCI
+  location: Eur Social Park
+  city: Roma
+  state: RM
+- date: '2023-06-21'
+  band: BRAMA
+  location: ''
+  city: Roma
+  state: RM
+  event: Via del Corso Music Fest
+- date: '2023-06-17'
+  band: SOLOPERISOCI
+  location: ''
+  city: Borgorose
+  state: RI
+  event: Birra del Borgo Festival
+- date: '2023-06-10'
+  band: BRAMA
+  location: La Redazione
+  city: Roma
+  state: RM
+  event: BRAMA/BRECHT
+- date: '2023-06-01'
+  band: SOLOPERISOCI
+  location: ''
+  city: Marina di Camerota
+  state: SA
+  event: Meeting del Mare
+- date: '2023-05-20'
+  band: LA SITUA
+  location: Casale di Polline
+  city: Bracciano
+  state: RM
+  event: Matrimonio
+- date: '2023-05-10'
+  band: BRAMA
+  location: Auditorium Parco della Musica
+  city: Roma
+  state: RM
+  event: RETAPE
+  featured: true
+- date: '2023-05-05'
+  band: SOLOPERISOCI
+  location: Bla Studio
+  city: Roma
+  state: RM
+- date: '2023-04-25'
+  band: SOLOPERISOCI
+  location: Marla
+  city: Perugia
+  state: PG
+- date: '2023-04-23'
+  band: BRAMA
+  location: Sala Baldini
+  city: Roma
+  state: RM
+- date: '2023-04-20'
+  band: SOLOPERISOCI
+  location: RCCB Init
+  city: Roma
+  state: RM
+- date: '2023-04-08'
+  band: BRAMA
+  location: Ex Cartiera Latina
+  city: Roma
+  state: RM
+  event: Teatro Mobile
+- date: '2023-03-30'
+  band: LA SITUA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+- date: '2023-02-23'
+  band: Cappellini Sanzò
+  location: Mezé Bistrot
+  city: Roma
+  state: RM
+  event: Mezé in Jazz
+- date: '2023-01-14'
+  band: SOLOPERISOCI
+  location: Garbage Live Club
+  city: Pratola
+  state: AQ
+- date: '2023-01-13'
+  band: SOLOPERISOCI
+  location: ARCI La Serra
+  city: Recanati
+  state: MC
+- date: '2023-01-05'
+  band: SOLOPERISOCI
+  location: Monk
+  city: Roma
+  state: RM
+  event: Chip Shot
+- date: '2022-12-31'
+  band: SOLOPERISOCI
+  location: Hotel San Carlo
+  city: Semogo
+  state: SO
+- date: '2022-12-30'
+  band: SOLOPERISOCI
+  location: Ciappinari
+  city: Vignola
+  state: MO
+- date: '2022-12-07'
+  band: BRAMA
+  location: Spazio Mensa
+  city: Roma
+  state: RM
+- date: '2022-12-03'
+  band: SUBBA AND THE ROOTS
+  location: Città dell'altra economia
+  city: Roma
+  state: RM
+- date: '2022-11-20'
+  band: SOLOPERISOCI
+  location: Area Sanremo
+  city: Sanremo
+  state: IM
+- date: '2022-11-02'
+  band: BRAMA
+  location: Cinecittà World
+  city: Roma
+  state: RM
+  event: Halloween Nights
+- date: '2022-10-09'
+  band: BRAMA
+  location: Sede Che Guevara
+  city: Roma
+  state: RM
+- date: '2022-10-06'
+  band: BRAMA
+  location: Art Village
+  city: Roma
+  state: RM
+  event: Tour Music Fest
+- date: '2022-09-25'
+  band: BRAMA
+  location: Roma Diffusa
+  city: Roma
+  state: RM
+- date: '2022-09-24'
+  band: Arioli Cappellini Sanzò
+  location: Casale Realmonte
+  city: Roma
+  state: RM
+- date: '2022-09-22'
+  band: BRAMA
+  location: Tempio del Futuro Perduto
+  city: Milano
+  state: MI
+  event: Milano Fashion Week
+  featured: true
+- date: '2022-09-12'
+  band: BRAMA
+  location: Bar India
+  city: Roma
+  state: RM
+- date: '2022-09-10'
+  band: LA SITUA
+  location: La Nuova Arca
+  city: Roma
+  state: RM
+- date: '2022-08-13'
+  band: SOLOPERISOCI
+  location: Il Faro
+  city: Ventotene
+  state: LT
+- date: '2022-08-11'
+  band: SOLOPERISOCI
+  location: Art Cafe
+  city: Ventotene
+  state: LT
+- date: '2022-07-13'
+  band: Cappellini Marchini
+  location: Osteria Cardinali jam w/ Samara Joy
+  city: Perugia
+  state: PG
+  event: Umbria Jazz
+- date: '2022-07-09'
+  band: SOLOPERISOCI
+  location: ''
+  city: Santa Margherita Ligure
+  state: GE
+  event: Premio Bindi
+- date: '2022-07-05'
+  band: BRAMA
+  location: Panetteria Atomica
+  city: Roma
+  state: RM
+  event: Compleonan
+- date: '2022-07-02'
+  band: SOLOPERISOCI
+  location: Piazza Pepe
+  city: Roma
+  state: RM
+  event: Libera il futuro
+- date: '2022-06-07'
+  band: BRAMA
+  location: Ambasciata di Spagna presso lo Stato Pontificio
+  city: Roma
+  state: RM
+  event: Barocco Digitale
+- date: '2022-05-28'
+  band: 'LA SITUA '
+  location: ''
+  city: Grottaferrata
+  state: RM
+  event: Minervini's Wedding
+- date: '2022-05-14'
+  band: SUBBA AND THE ROOTS
+  location: ''
+  city: Radicofani
+  state: SI
+  event: Farewell Pippo
+- date: '2022-05-13'
+  band: SOLOPERISOCI
+  location: RomArt Factory
+  city: Roma
+  state: RM
+- date: '2022-04-25'
+  band: SOLOPERISOCI
+  location: Eur Social Park
+  city: Roma
+  state: RM
+  event: Limonata Festival
+- date: '2022-04-23'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: Brama Live Show
+- date: '2022-04-22'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: Brama Live Show
+- date: '2022-03-31'
+  band: SOLOPERISOCI
+  location: Container San Lorenzo
+  city: Roma
+  state: RM
+- date: '2022-03-20'
+  band: BRAMA
+  location: Castello della Pace
+  city: Montecelio
+  state: RM
+- date: '2022-03-05'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: Brama Live Show
+- date: '2022-03-04'
+  band: BRAMA
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+  event: Brama Live Show
+- date: '2021-12-31'
+  band: LA SITUA
+  location: Hotel San Carlo
+  city: Semogo
+  state: SO
+- date: '2021-12-29'
+  band: 'BRAMA '
+  location: Cappella Orsini
+  city: Roma
+  state: RM
+- date: '2021-12-27'
+  band: 'LA SITUA '
+  location: Casale Capaldino
+  city: Fonte Nuova
+  state: RM
+- date: '2021-11-27'
+  band: ' BRAMA '
+  location: Panetteria Atomica
+  city: Roma
+  state: RM
+- date: '2021-11-26'
+  band: ' BRAMA '
+  location: Panetteria Atomica
+  city: Roma
+  state: RM
+- date: '2021-10-26'
+  band: ' LA SITUA '
+  location: Caffe Tevere
+  city: Roma
+  state: RM
+  event: ARCHaffe
+- date: '2021-10-02'
+  band: ' LA SITUA '
+  location: '30ESIMO '
+  city: Settebagni
+  state: RM
+- date: '2021-09-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Capocavallo
+  city: Pontinia
+  state: LT
+- date: '2021-09-22'
+  band: ' FRIENDS '
+  location: Casale Capaldino
+  city: Fonte Nuova
+  state: RM
+  event: Giano graduation party
+- date: '2021-07-30'
+  band: ' SOLOPERISOCI '
+  location: Memorabilia Festival
+  city: Recanati
+  state: MC
+- date: '2021-07-24'
+  band: ' SOLOPERISOCI '
+  location: Secret Show
+  city: Sabaudia
+  state: LT
+- date: '2021-07-18'
+  band: ' SOLOPERISOCI '
+  location: Art Cafe
+  city: Ventotene
+  state: LT
+- date: '2021-07-17'
+  band: ' SOLOPERISOCI '
+  location: Il Faro
+  city: Ventotene
+  state: LT
+- date: '2021-06-29'
+  band: ' SOLOPERISOCI '
+  location: Habicura
+  city: Roma
+  state: RM
+- date: '2020-09-13'
+  band: ' SOLOPERISOCI '
+  location: Habicura
+  city: Roma
+  state: RM
+  event: Gandhara
+- date: '2020-09-12'
+  band: ' SUBBA AND THE ROOTS '
+  location: Terrazza Del Gianicolo
+  city: Roma
+  state: RM
+- date: '2020-07-06'
+  band: ' SOLOPERISOCI '
+  location: Marafioti's Degree
+  city: Roma
+  state: RM
+- date: '2020-07-04'
+  band: ' SUBBA AND THE ROOTS '
+  location: Pippo's Degree
+  city: Radicofani
+  state: SI
+- date: '2020-06-16'
+  band: ' SOLOPERISOCI '
+  location: Alema's 18
+  city: Roma
+  state: RM
+- date: '2020-02-23'
+  band: ' LA SITUA '
+  location: Casale Capaldino
+  city: Fonte Nuova
+  state: RM
+- date: '2020-01-31'
+  band: ' SUBBA AND THE ROOTS '
+  location: Alcazar
+  city: Roma
+  state: RM
+- date: '2020-01-24'
+  band: ' SUBBA AND THE ROOTS '
+  location: Draft
+  city: Vallo della Lucania
+  state: SA
+- date: '2020-01-19'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hocus Focus Fest
+  city: Altavilla Silentina
+  state: SA
+- date: '2020-01-18'
+  band: ' SUBBA AND THE ROOTS '
+  location: Manhattan
+  city: Vitulazio
+  state: CE
+- date: '2019-12-14'
+  band: ' SUBBA AND THE ROOTS '
+  location: Club Saltatempo
+  city: Genazzano
+  state: RM
+- date: '2019-12-08'
+  band: ' SUBBA AND THE ROOTS '
+  location: Circo della Farfalla
+  city: Francavilla Fontana
+  state: BR
+- date: '2019-11-23'
+  band: ' SUBBA AND THE ROOTS '
+  location: Il Portico
+  city: Castelnuovo ne Monti
+  state: RE
+- date: '2019-11-22'
+  band: ' SUBBA AND THE ROOTS '
+  location: Garbage Live Club
+  city: Pratola
+  state: AQ
+- date: '2019-11-16'
+  band: ' SUBBA AND THE ROOTS '
+  location: Bar Fly
+  city: Circello
+  state: BN
+- date: '2019-11-15'
+  band: ' SUBBA AND THE ROOTS '
+  location: Area 36
+  city: Campagna
+  state: SA
+- date: '2019-10-31'
+  band: ' SUBBA AND THE ROOTS '
+  location: 100dieci caffe
+  city: Perugia
+  state: PG
+  event: European Social Sound Finali Reg. Umbria
+- date: '2019-10-26'
+  band: ' LA SITUA '
+  location: ' Alchemy Beer & Food'
+  city: Fiumicino
+  state: RM
+  event: La Situina n 1
+- date: '2019-10-18'
+  band: ' LA SITUA '
+  location: Sinestetica
+  city: Roma
+  state: RM
+  event: La Situa n 4.1 Compleanno de La Situa
+- date: '2019-08-24'
+  band: ' SUBBA AND THE ROOTS '
+  location: Piazza Casetta
+  city: Capalbio Scalo
+  state: GR
+- date: '2019-08-23'
+  band: ' SUBBA AND THE ROOTS '
+  location: Al Tocco
+  city: Radicofani
+  state: SI
+- date: '2019-08-16'
+  band: ' Arioli Cappellini '
+  location: Tiq
+  city: Rocca di Mezzo
+  state: AQ
+- date: '2019-07-06'
+  band: ' Fonte Pesce Cocci Gallo CAPPELLINI '
+  location: Isola del Cinema
+  city: Roma
+  state: RM
+  event: Mi Chiamano Sbandato
+- date: '2019-06-28'
+  band: ' ERNESTO E I SOCI '
+  location: Teatro India
+  city: Roma
+  state: RM
+  event: IndiaEstate
+- date: '2019-06-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Teatro India
+  city: Roma
+  state: RM
+  event: Dominio Pubblico
+- date: '2019-06-17'
+  band: ' A.R.M. BIG BAND '
+  location: Blume
+  city: Roma
+  state: RM
+- date: '2019-06-15'
+  band: ' Rigillo Taddei Mastrovito Gennenzi CAPPELLINI '
+  location: Matrimonio
+  city: Spoleto
+  state: PG
+- date: '2019-06-14'
+  band: ' LA SITUA '
+  location: Sinestetica
+  city: Roma
+  state: RM
+  event: La Situetta n 5
+- date: '2019-06-08'
+  band: ' SUBBA AND THE ROOTS '
+  location: Zalib
+  city: Roma
+  state: RM
+  event: Art Party n 8
+- date: '2019-05-31'
+  band: ' SUBBA AND THE ROOTS '
+  location: Spv
+  city: Roma
+  state: RM
+  event: Un Giardino Per Renato
+- date: '2019-05-31'
+  band: ' MANDRILLI140 '
+  location: Spv
+  city: Roma
+  state: RM
+  event: Un Giardino Per Renato
+- date: '2019-05-26'
+  band: ' SUBBA AND THE ROOTS '
+  location: Bertani Dai
+  city: Roma
+  state: RM
+- date: '2019-05-17'
+  band: ' LA SITUA '
+  location: Sinestetica
+  city: Roma
+  state: RM
+  event: La Situetta n 2
+- date: '2019-05-10'
+  band: ' LA SITUA '
+  location: Sinestetica
+  city: Roma
+  state: RM
+  event: La Situetta n 1
+- date: '2019-05-03'
+  band: ' ERNESTO E I SOCI '
+  location: Wishlist
+  city: Roma
+  state: RM
+  event: Aloha Night
+- date: '2019-04-17'
+  band: ' A.R.M. BIG BAND '
+  location: Archivio14
+  city: Roma
+  state: RM
+- date: '2019-04-13'
+  band: ' LA SITUA '
+  location: Pom Pom Studio
+  city: Roma
+  state: RM
+  event: La Situa n 4
+- date: '2019-04-07'
+  band: ' MISSISSIPPI '
+  location: Cotton Club
+  city: Roma
+  state: RM
+- date: '2019-03-21'
+  band: ' ERNESTO E I SOCI '
+  location: Mons
+  city: Roma
+  state: RM
+- date: '2019-03-16'
+  band: ' SUBBA AND THE ROOTS '
+  location: Ex Magazzini
+  city: Roma
+  state: RM
+- date: '2019-03-08'
+  band: ' ERNESTO E I SOCI '
+  location: Le Mura
+  city: Roma
+  state: RM
+- date: '2019-03-03'
+  band: ' EDOARDO BARONI '
+  location: Le Mura
+  city: Roma
+  state: RM
+- date: '2019-01-05'
+  band: ' ERNESTO E I SOCI '
+  location: Wishlist Club
+  city: Roma
+  state: RM
+  event: Aloha Night
+- date: '2019-01-05'
+  band: ' EDOARDO BARONI '
+  location: Wishlist Club
+  city: Roma
+  state: RM
+  event: Aloha Night
+- date: '2018-12-27'
+  band: ' SUBBA AND THE ROOTS '
+  location: LocandaY
+  city: Roma
+  state: RM
+  event: Premio Nuovo IMAIE
+- date: '2018-12-23'
+  band: ' ERNESTO E I SOCI '
+  location: Quid
+  city: Roma
+  state: RM
+- date: '2018-12-14'
+  band: ' SUBBA AND THE ROOTS '
+  location: Planet
+  city: Roma
+  state: RM
+  event: MarteLive Semifinali Regionali
+- date: '2018-12-13'
+  band: ' ERNESTO E I SOCI '
+  location: In VINO Veritas
+  city: Roma
+  state: RM
+- date: '2018-11-23'
+  band: ' ERNESTO E I SOCI '
+  location: Zalib
+  city: Roma
+  state: RM
+  event: Gandhara
+- date: '2018-11-15'
+  band: ' LA SITUA feat. JEKESA '
+  location: Spv
+  city: Roma
+  state: RM
+  event: Free Plastic Day
+- date: '2018-11-11'
+  band: ' MISSISSIPPI '
+  location: ponte Garibaldi
+  city: Roma
+  state: RM
+  event: CONI sport lungo il Tevere
+- date: '2018-11-08'
+  band: ' SANZO LENA '
+  location: Istituto Briccialdi
+  city: Terni
+  state: TR
+- date: '2018-10-29'
+  band: ' LA SITUA '
+  location: Istituto Briccialdi
+  city: Terni
+  state: TR
+- date: '2018-10-14'
+  band: ' LA SITUA '
+  location: Queen Makeda
+  city: Roma
+  state: RM
+- date: '2018-10-13'
+  band: ' SUBBA AND THE ROOTS '
+  location: T.A.G.
+  city: Roma
+  state: RM
+- date: '2018-10-05'
+  band: ' SUBBA AND THE ROOTS '
+  location: Alcazar
+  city: Roma
+  state: RM
+- date: '2018-09-15'
+  band: ' RIGILLO FRANI CARBONE CAPPELLINI '
+  location: Zia Cathy's
+  city: Castel sant'elia
+  state: VT
+- date: '2018-09-01'
+  band: ' RIGILLO FRANI CAPPELLINI '
+  location: Castellina de Miremont
+  city: Rignano Flaminio
+  state: RM
+- date: '2018-08-02'
+  band: ' SUBBA AND THE ROOTS '
+  location: Papagayo Resort
+  city: Falerna
+  state: CZ
+- date: '2018-08-01'
+  band: ' SUBBA AND THE ROOTS '
+  location: 50 Special Pub
+  city: Amantea
+  state: CS
+- date: '2018-07-21'
+  band: ' EDOARDO BARONI '
+  location: Mancio
+  city: Roma
+  state: RM
+- date: '2018-07-20'
+  band: ' SUBBA AND THE ROOTS '
+  location: T.A.G.
+  city: Roma
+  state: RM
+- date: '2018-07-19'
+  band: ' LA SITUA '
+  location: Castel Sant'Angelo
+  city: Roma
+  state: RM
+- date: '2018-07-13'
+  band: ' EDOARDO BARONI '
+  location: Fauno 3.0
+  city: Roma
+  state: RM
+- date: '2018-07-12'
+  band: ' LA SITUA '
+  location: Castel Sant'Angelo
+  city: Roma
+  state: RM
+- date: '2018-07-07'
+  band: ' SUBBA AND THE ROOTS '
+  location: Archibugi
+  city: Roma
+  state: RM
+- date: '2018-07-06'
+  band: ' LA SITUA '
+  location: Sinestetica
+  city: Roma
+  state: RM
+- date: '2018-07-03'
+  band: ' SUBBA AND THE ROOTS '
+  location: Parterre Farnesina Social Garden
+  city: Roma
+  state: RM
+- date: '2018-06-30'
+  band: ' SUBBA AND THE ROOTS '
+  location: Le Mura
+  city: Roma
+  state: RM
+- date: '2018-06-24'
+  band: ' EDOARDO BARONI '
+  location: Le Mura
+  city: Roma
+  state: RM
+- date: '2018-06-23'
+  band: ' ERNESTO E I SOCI '
+  location: Wishlist
+  city: Roma
+  state: RM
+- date: '2018-06-22'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marafioti
+  city: Roma
+  state: RM
+  event: Private Party
+- date: '2018-06-21'
+  band: ' MISSISSIPPI '
+  location: Ritual Pab
+  city: Roma
+  state: RM
+- date: '2018-06-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Ex Dogana
+  city: Roma
+  state: RM
+- date: '2018-06-20'
+  band: ' A.R.M. '
+  location: Teatro Lo Spazio
+  city: Roma
+  state: RM
+- date: '2018-06-19'
+  band: ' A.R.M. '
+  location: Marmo
+  city: Roma
+  state: RM
+- date: '2018-06-17'
+  band: ' ERNESTO E I SOCI '
+  location: Marmo
+  city: Roma
+  state: RM
+  event: Spaghetti Unplugged
+- date: '2018-06-15'
+  band: ' LA SITUA '
+  location: Spaziosenzatitolo
+  city: Roma
+  state: RM
+  event: La Situa n 3
+- date: '2018-06-09'
+  band: ' MUSA '
+  location: Aula Magna Sapienza
+  city: Roma
+  state: RM
+  event: Rugantino
+  featured: true
+- date: '2018-06-06'
+  band: ' SUBBA AND THE ROOTS '
+  location: Contestaccio
+  city: Roma
+  state: RM
+- date: '2018-05-31'
+  band: ' SUBBA AND THE ROOTS '
+  location: Spv
+  city: Roma
+  state: RM
+  event: Naima
+- date: '2018-05-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Spv
+  city: Roma
+  state: RM
+  event: Un Giardino Per Renato
+- date: '2018-05-24'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marmo
+  city: Roma
+  state: RM
+- date: '2018-05-20'
+  band: ' MISSISSIPPI '
+  location: Artidee
+  city: Roma
+  state: RM
+- date: '2018-05-17'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marmo
+  city: Roma
+  state: RM
+  event: Marmo Music Match
+- date: '2018-05-13'
+  band: ' MUSA JAZZ '
+  location: CasAcli
+  city: Roma
+  state: RM
+- date: '2018-05-12'
+  band: ' ERNESTO E I SOCI '
+  location: Wishlist
+  city: Roma
+  state: RM
+  event: Aloha Night
+- date: '2018-05-11'
+  band: ' SUBBA AND THE ROOTS + NINE '
+  location: Largo Venue
+  city: Roma
+  state: RM
+  event: It's Up 2 U! La Finale
+- date: '2018-04-28'
+  band: ' SUBBA AND THE ROOTS '
+  location: Follyk
+  city: Roma
+  state: RM
+- date: '2018-04-22'
+  band: ' LA SITUA '
+  location: Let It Beer
+  city: Roma
+  state: RM
+- date: '2018-04-18'
+  band: ' SUBBA AND THE ROOTS '
+  location: Celestino
+  city: Roma
+  state: RM
+- date: '2018-04-09'
+  band: ' ERNESTO E I SOCI '
+  location: Quirinetta
+  city: Roma
+  state: RM
+  event: Aloha Night
+- date: '2018-03-30'
+  band: ' LA SITUA '
+  location: Bassa Fermentazione
+  city: Roma
+  state: RM
+  event: La Situa n 2.1
+- date: '2018-03-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marmo
+  city: Roma
+  state: RM
+  event: Spaghetti Unplugged
+- date: '2018-03-23'
+  band: ' SUBBA AND THE ROOTS '
+  location: Largo Venue
+  city: Roma
+  state: RM
+  event: It's Up 2 U!
+- date: '2018-03-18'
+  band: ' LA SITUA '
+  location: Red Feltrinelli
+  city: Roma
+  state: RM
+- date: '2018-03-16'
+  band: ' SUBBA AND THE ROOTS '
+  location: Caffe Tevere
+  city: Roma
+  state: RM
+  event: TevereJam
+- date: '2018-02-04'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marmo
+  city: Roma
+  state: RM
+  event: Spaghetti Unplugged
+- date: '2018-02-02'
+  band: ' SUBBA AND THE ROOTS '
+  location: Il Cantine
+  city: Roma
+  state: RM
+- date: '2018-01-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Marmo
+  city: Roma
+  state: RM
+  event: Marmo Music Match
+- date: '2017-12-08'
+  band: ' SUBBA AND THE ROOTS '
+  location: Il Cantiere
+  city: Roma
+  state: RM
+- date: '2017-11-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Auditorium Parco della Musica
+  city: Roma
+  state: RM
+  event: Dallo stornello al Rap - Finale
+  featured: true
+- date: '2017-09-29'
+  band: ' SUBBA AND THE ROOTS '
+  location: Caffè Tevere
+  city: Roma
+  state: RM
+  event: Tevere Jam
+- date: '2017-09-17'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Vidracco
+  state: TO
+  event: Vespia Rave Party
+- date: '2017-06-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Rinocerose
+  city: Roma
+  state: RM
+  event: Festa della Musica
+- date: '2017-06-15'
+  band: ' SUBBA AND THE ROOTS '
+  location: Atelier Montez
+  city: Roma
+  state: RM
+  event: As the sun rises
+- date: '2017-05-26'
+  band: ' SUBBA AND THE ROOTS '
+  location: Facoltà San Pietro in Vincoli
+  city: Roma
+  state: RM
+  event: Un giardino per Renato
+- date: '2017-04-08'
+  band: ' SUBBA AND THE ROOTS '
+  location: Villa Ada
+  city: Roma
+  state: RM
+- date: '2016-12-29'
+  band: ' SUBBA AND THE ROOTS '
+  location: Wishlist Club
+  city: Roma
+  state: RM
+  event: Breaking Thursday
+- date: '2016-11-04'
+  band: ' SUBBA AND THE ROOTS '
+  location: Studio 10b
+  city: Roma
+  state: RM
+  event: Where Streets Have No Name -Vivian Maier
+- date: '2016-07-01'
+  band: ' SUBBA AND THE ROOTS '
+  location: Rinocerose
+  city: Roma
+  state: RM
+- date: '2016-06-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Il Cantiere
+  city: Roma
+  state: RM
+- date: '2016-06-11'
+  band: ' SUBBA AND THE ROOTS '
+  location: REA - Statistica
+  city: Roma
+  state: RM
+- date: '2016-06-10'
+  band: ' SUBBA AND THE ROOTS '
+  location: Rinocerose
+  city: Roma
+  state: RM
+- date: '2016-06-01'
+  band: ' SUBBA AND THE ROOTS '
+  location: Escada Café
+  city: Roma
+  state: RM
+- date: '2016-04-07'
+  band: ' SUBBA AND THE ROOTS '
+  location: Velvet Studio
+  city: Roma
+  state: RM
+- date: '2015-09-19'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Castel Guelfo
+  state: BO
+  event: Teen Parade
+- date: '2015-06-06'
+  band: ' SUBBA AND THE ROOTS '
+  location: Velvet Studio
+  city: Roma
+  state: RM
+- date: '2015-04-18'
+  band: ' SUBBA AND THE ROOTS '
+  location: Villa Ada
+  city: Roma
+  state: RM
+  event: SUBBAFTERNOON
+- date: '2015-03-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Intifada
+  city: Roma
+  state: RM
+- date: '2014-12-27'
+  band: ' SUBBA AND THE ROOTS '
+  location: Zoobar
+  city: Roma
+  state: RM
+  event: Christmas Rock Party
+- date: '2014-12-02'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM
+  event: Liceo Tasso Occupato
+- date: '2014-11-28'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-11-21'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-11-07'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-10-31'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-10-29'
+  band: ' SUBBA AND THE ROOTS '
+  location: Brancaleone
+  city: Roma
+  state: RM
+  event: Suono Libero
+- date: '2014-10-24'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-10-18'
+  band: ' SUBBA AND THE ROOTS '
+  location: Xs
+  city: Roma
+  state: RM
+  event: Freak&C
+- date: '2014-10-17'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-10-10'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-10-03'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-09-11'
+  band: ' SUBBA AND THE ROOTS '
+  location: Hopside
+  city: Roma
+  state: RM
+- date: '2014-07-05'
+  band: ' SUBBA AND THE ROOTS '
+  location: Lungotevere
+  city: Roma
+  state: RM
+- date: '2014-06-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: Locanda Atlantide
+  city: Roma
+  state: RM
+  event: MAXSI Factor
+- date: '2014-06-07'
+  band: ' SUBBA AND THE ROOTS '
+  location: Liceo Albertelli
+  city: Roma
+  state: RM
+- date: '2014-04-06'
+  band: ' SUBBA AND THE ROOTS '
+  location: Felt Music Club
+  city: Roma
+  state: RM
+- date: '2014-02-01'
+  band: ' SUBBA AND THE ROOTS '
+  location: Dimmidisi Club
+  city: Roma
+  state: RM
+- date: '2013-12-23'
+  band: ' SUBBA AND THE ROOTS '
+  location: Vortex Club
+  city: Roma
+  state: RM
+- date: '2013-12-20'
+  band: ' SUBBA AND THE ROOTS '
+  location: Dimmidisi Club
+  city: Roma
+  state: RM
+- date: '2013-11-08'
+  band: ' SUBBA AND THE ROOTS '
+  location: Dimmidisi Club
+  city: Roma
+  state: RM
+- date: '2013-06-23'
+  band: ' SUBBA AND THE ROOTS '
+  location: teatro San Saturnino
+  city: Roma
+  state: RM
+  event: Artefatti Night
+- date: '2013-06-22'
+  band: ' SUBBA AND THE ROOTS '
+  location: Margot
+  city: Roma
+  state: RM
+- date: '2013-06-12'
+  band: ' SUBBA AND THE ROOTS '
+  location: Brancaleone
+  city: Roma
+  state: RM
+- date: '2013-05-12'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM
+  event: Tour Music Fest
+- date: '2013-04-20'
+  band: ' SUBBA AND THE ROOTS '
+  location: Margot
+  city: Roma
+  state: RM
+- date: '2013-01-19'
+  band: ' SUBBA AND THE ROOTS '
+  location: Margot
+  city: Roma
+  state: RM
+- date: '2012-12-22'
+  band: ' SUBBA AND THE ROOTS '
+  location: Init Club
+  city: Roma
+  state: RM
+- date: '2012-12-20'
+  band: ' SUBBA AND THE ROOTS '
+  location: Foollyk
+  city: Roma
+  state: RM
+- date: '2012-11-11'
+  band: ' SUBBA AND THE ROOTS '
+  location: Init Club
+  city: Roma
+  state: RM
+  event: Tasso Party
+- date: '2012-11-07'
+  band: ' SUBBA AND THE ROOTS '
+  location: Brancaleone
+  city: Roma
+  state: RM
+  event: Suono Libero
+- date: '2012-10-27'
+  band: ' SUBBA AND THE ROOTS '
+  location: Margot
+  city: Roma
+  state: RM
+- date: '2012-06-12'
+  band: ' SUBBA AND THE ROOTS '
+  location: Rock Incontro
+  city: Roma
+  state: RM
+  event: Albertelli
+- date: '2012-06-01'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM
+  event: Fuori controllo music festival
+- date: '2012-05-25'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM
+  event: Shanti music festival
+- date: '2012-02-20'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM
+  event: Albertelli
+- date: '2011-12-22'
+  band: ' SUBBA AND THE ROOTS '
+  location: ''
+  city: Roma
+  state: RM

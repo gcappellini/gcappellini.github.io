@@ -23,4 +23,4 @@ A tribute to one of the masters of Brazilian jazz drumming.
 
 Explore my complete performance archive, including live shows with all my bands, drum covers, and studio sessions.
 
-[View Full Performance Archive on YouTube →](YOUR_YOUTUBE_PLAYLIST_LINK)
+[View Full Performance Archive on YouTube →](https://youtube.com/playlist?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc&si=XtFxksrvZjCTPjNX)
