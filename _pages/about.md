@@ -17,9 +17,9 @@ redirect_from:
 **AI for PDEs**  
 Sapienza Università di Roma
 
-- Physics-Informed Neural Networks
-- Oncological Hyperthermia
-- Medical Robotics
+- AI + Science & Neural Operators 
+- Scientific discovery, Design & Experimentation
+- Medical Robotics & Oncological Hyperthermia
 
 [Explore Research →](/publications/)
 
@@ -37,4 +37,4 @@ Sapienza Università di Roma
 
 ---
 
-I bridge AI innovation and musical expression, bringing analytical thinking to both algorithm design and artistic creation.
+I bridge AI + Science innovation and musical expression, bringing analytical thinking to both algorithm design and artistic creation.
