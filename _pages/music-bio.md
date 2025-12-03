@@ -54,9 +54,9 @@ author_profile: true
 }
 </style>
 
-## Drummer & Music Multi-Tool
+<!-- ## Drummer & Music Multi-Tool
 
----
+--- -->
 
 <div class="music-nav">
   <a href="/music-bio/" class="music-nav-item" style="border-left-color: #991b1b; background: linear-gradient(135deg, #991b1b 0%, #7f1d1d 100%); color: white;">
@@ -102,7 +102,7 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 - La Situa (2018–present)
 - Dimensione Brama (2021–present)
 
-**Session work:** Edoardo Baroni, Gabriele Deca, Vikthor, Pheelow, Vingiano
+**Session work:** Vikthor, Pheelow, Vingiano
 
 I've also explored theatrical performance, including "Mi chiamano sbandato" with Edoardo Pesce and Marcello Fonte (2018).
 
