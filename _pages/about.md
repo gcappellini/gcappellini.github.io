@@ -12,7 +12,8 @@ header:
       url: "/music-bio/"
 excerpt: "Postdoctoral Researcher & Freelance Drummer"
 intro: 
-  - excerpt: 'Bridging AI innovation and musical expression'
+  # - excerpt: 'Bridging AI innovation and musical expression'
+  - excerpt: 'I bridge scientific research and cultural curiosity, fascinated by complex engineering problems, multidisciplinary environments, and how they translate into arts and music. I am committed to promoting a responsible and effective use of AI.'
 feature_row1:
   - image_path: /images/research-placeholder.jpg
     alt: "Research"
