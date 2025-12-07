@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Postdoctoral Researcher & Freelance Drummer
-
-I bridge AI + Science innovation and musical expression, bringing analytical thinking to both algorithm design and artistic creation.
+## AI Research Scientist & Freelance Drummer
 ---
+I bridge scientific research and cultural curiosity, fascinated by complex engineering problems, multidisciplinary environments, and how they translate into arts and music. I am committed to promoting a responsible and effective use of AI.
 
 ## Research
 
