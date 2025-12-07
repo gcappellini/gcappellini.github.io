@@ -12,6 +12,7 @@ author_profile: true
   border-radius: 8px;
   margin-bottom: 2em;
   border-left: 4px solid #0d9488;
+  color: #000000;
 }
 
 .contact-section.music {

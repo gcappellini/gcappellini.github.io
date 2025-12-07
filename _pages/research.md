@@ -55,8 +55,8 @@ author_profile: true
 </style>
 
 
-## AI for Partial Differential Equations
-### Sapienza Università di Roma
+## AI Research Scientist
+### Sapienza Università di Roma / Ospedale Pediatrico Bambino Gesù
 
 I am a Postdoctoral Researcher in Artificial Intelligence for Health, focusing on developing AI-driven solutions for complex physical and medical challenges.
 

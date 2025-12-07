@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-# Guglielmo Cappellini
 ## Postdoctoral Researcher & Freelance Drummer
 
+I bridge AI + Science innovation and musical expression, bringing analytical thinking to both algorithm design and artistic creation.
 ---
 
 ## Research
 
-**AI for PDEs**  
+**AI Research Scientist**  
 Sapienza Università di Roma
 
 - AI + Science & Neural Operators 
@@ -36,5 +36,3 @@ Sapienza Università di Roma
 [Explore Music →](/music-bio/)
 
 ---
-
-I bridge AI + Science innovation and musical expression, bringing analytical thinking to both algorithm design and artistic creation.
