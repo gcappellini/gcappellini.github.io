@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#333"
   overlay_filter: "0.5"
-  overlay_image: /images/profile.jpg
+  overlay_image: /images/profile.png
   actions:
     - label: "Research"
       url: "/research/"
@@ -23,7 +23,7 @@ feature_row1:
     btn_label: "Explore Research"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /images/music-placeholder.jpg
+  - image_path: /images/music-placeholder.JPG
     alt: "Music"
     title: "Music"
     excerpt: 'Drummer & Music Multi-Tool. Session work, production, live performances, and music industry expertise across multiple projects.'
