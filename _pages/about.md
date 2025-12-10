@@ -12,13 +12,12 @@ header:
       url: "/music-bio/"
 excerpt: "Postdoctoral Researcher & Freelance Drummer"
 intro: 
-  # - excerpt: 'Bridging AI innovation and musical expression'
-  - excerpt: 'I bridge scientific research and cultural curiosity, fascinated by complex engineering problems, multidisciplinary environments, and how they translate into arts and music. I am committed to promoting a responsible and effective use of AI.'
+  - excerpt: 'I bridge scientific rigor and cultural curiosity, fascinated by how **Complex Systems** translate into arts and music. I thrive in multidisciplinary environments as a **people-gatherer**, aiming to unlock and amplify expressiveness for everyone involved. I view AI as a crucial tool in this process—enhancing the **efficiency of human creativity**—and I am committed to its responsible and effective use.'
 feature_row1:
   - image_path: /images/profile.png
     alt: "Research"
     title: "Research"
-    excerpt: 'AI for PDEs at Sapienza Università di Roma. Specializing in Physics-Informed Neural Networks, Oncological Hyperthermia, and Medical Robotics.'
+    excerpt: 'AI Research Scientist specializing in Generative Modeling, Physics-Informed Neural Networks (PINNs), and Inverse Problems. Solving differential equations to simulate physical reality in real-time.'
     url: "/research/"
     btn_label: "Explore Research"
     btn_class: "btn--primary"
@@ -26,7 +25,7 @@ feature_row2:
   - image_path: /images/profile.png
     alt: "Music"
     title: "Music"
-    excerpt: 'Drummer & Music Multi-Tool. Session work, production, live performances, and music industry expertise across multiple projects.'
+    excerpt: 'Drummer & Music Multi-Tool. Focused on building the "pocket"—a reliable rhythmic foundation that drives collective expression and allows collaborators to thrive.'
     url: "/music-bio/"
     btn_label: "Explore Music"
     btn_class: "btn--primary"

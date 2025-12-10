@@ -55,13 +55,10 @@ author_profile: true
 </style>
 
 ## Drummer & Music Multi-Tool
-<!-- ## Musical Heritage -->
 
-Music runs deep from both sides of my family. My paternal great-grandmother, Iva Pacetti, was a renowned opera soprano who performed at major Italian and international theatres. On my mother's side, I descend from Giuseppe Giacosa, librettist of Puccini's Tosca, La Bohème, and Madama Butterfly. 
+I have always been fascinated by the drum—humanity’s oldest tool for long-distance communication.
+Rhythm is where structure meets expression, and as a drummer involved in multiple projects, I strive to create the 'pocket'—a solid foundation where the rest of the band can thrive, balancing technical rigor with musical intuition.
 
-I chose drums, fascinated by the discovery that ancient humans used them to communicate across long distances. I decided I wanted to do something like that.
-
-<!-- --- -->
 
 <div class="music-nav">
   <a href="/music-bio/" class="music-nav-item" style="border-left-color: #991b1b; background: linear-gradient(135deg, #991b1b 0%, #7f1d1d 100%); color: white;">
@@ -85,7 +82,9 @@ I chose drums, fascinated by the discovery that ancient humans used them to comm
   </a>
 </div>
 
----
+## Musical Heritage
+
+Music runs deep from both sides of my family. My paternal great-grandmother, Iva Pacetti, was a renowned opera soprano who performed at major Italian and international theatres. On my mother's side, I descend from Giuseppe Giacosa, librettist of Puccini's Tosca, La Bohème, and Madama Butterfly. 
 
 ## Training & Development
 

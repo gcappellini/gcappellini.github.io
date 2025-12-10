@@ -56,9 +56,8 @@ author_profile: true
 
 
 ## AI Research Scientist
-### Sapienza Università di Roma / Ospedale Pediatrico Bambino Gesù
 
-I am a Postdoctoral Researcher in Artificial Intelligence for Health, focusing on developing AI-driven solutions for complex physical and medical challenges.
+My research stands at the intersection of **Physical Modeling** and **Artificial Intelligence**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). Whether modeling biological tissues or signal propagation, I aim to build AI systems that understand the dynamics of the physical world.
 
 ---
 
@@ -86,43 +85,60 @@ I am a Postdoctoral Researcher in Artificial Intelligence for Health, focusing o
 
 ---
 
+## Professional Experience
+
+**AI Research Scientist** | Sapienza Università di Roma  
+*(Present)*
+* Leading research on **Generative AI** and **PINNs** for the simulation of complex dynamical systems.
+* Developing **Real-time Signal Processing** pipelines for Virtual Reality (VR) environments, optimizing latency for human-in-the-loop applications.
+* Bridging the gap between Finite Element Method (FEM) physics and Deep Learning to reduce computational costs in real-time solvers.
+
+**Visiting AI Researcher** | Amsterdam UMC  
+*(2023 – 6 Months)*
+* Validated data-driven control algorithms on experimental hardware.
+* Focused on **Quality Assurance (QA)** and robust signal acquisition in high-noise environments.
+* Collaborated with international teams to deploy engineering solutions in critical workflows.
+
+---
+
 ## Research Focus
 
 My current research centers on:
 
 ### Physics-Informed Neural Networks (PINNs)
-Developing AI methods that incorporate physical laws and constraints into neural network architectures for solving partial differential equations.
+Developing AI methods that incorporate physical laws and constraints into neural network architectures for solving partial differential equations (PDEs) and inverse problems.
 
-### Oncological Hyperthermia
-AI-based solution methods for treatment planning and monitoring in cancer therapy using localized heating.
+### Distributed Parameter Systems & Diffusion
+Modeling and controlling diffusion processes (e.g., heat transfer, wave propagation) in heterogeneous media using physics-informed observers and adaptive estimators.
 
-### Medical Robotics & Surgical Simulation
-AI-driven simulation of deformable tissues for surgical training platforms and robotic-assisted procedures.
-
+### Real-time Simulation & VR
+AI-driven simulation of deformable soft bodies for interactive Virtual Reality platforms, focusing on computational efficiency and physical realism.
 ---
 
 ## Academic Background
 
-**PhD in AI for Healthcare** (Sapienza Università di Roma, 2022–2024)  
-*AI-based solution methods for PDEs with applications to oncological hyperthermia*  
-Co-funded by MedLogix Srl, with international collaboration at Amsterdam UMC.
+**PhD in AI for Control Engineering** (Sapienza Università di Roma, 2022–2024)  
+*Thesis: "AI-based solution methods for PDEs with applications to oncological hyperthermia"*  
+Developed observers for estimating physical parameters in continuous space-time domains. Co-funded by MedLogix Srl.
 
 **MSc in Nuclear Engineering** (Sapienza Università di Roma, 2018–2021)  
-*Study and characterization of radiolabeled nanovectors for cancer diagnosis and therapy*
+*Focus: Radiation physics, signal quantification, and microfluidic dynamics simulation.*
 
 **BSc in Energy and Nuclear Engineering** (Sapienza Università di Roma, 2015–2017)  
-*Radionuclide production and medical applications*
+*Focus: Physics of complex systems and experimental measurements.*
+
+ 
 
 ---
 
-## Research & Teaching Experience
+## Teaching & Leadership
 
-I thrive in interdisciplinary environments, having worked with engineers, clinicians, and industry partners. This background allows me to understand clinical needs while designing innovative AI tools with real-world impact.
+I thrive in interdisciplinary environments, bridging the gap between rigorous engineering and innovative AI tools with real-world impact.
 
 **Current Teaching:**
-- Fundamentals of Automation (Tutor, 2022/2023 & 2024/2025)
+- Fundamentals of Automation (Tutor, 2022–Present)
 - Medical Robotics (Supervisor of MSc final projects)
-- Supervision of BSc and MSc theses in AI for healthcare
+- Supervision of BSc and MSc theses in Physics-Informed AI
 
 ---
 
