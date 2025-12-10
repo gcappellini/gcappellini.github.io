@@ -10,7 +10,7 @@ header:
       url: "/research/"
     - label: "Music"
       url: "/music-bio/"
-excerpt: "Postdoctoral Researcher & Freelance Drummer"
+excerpt: "AI Research Scientist & Freelance Drummer"
 intro: 
   - excerpt: 'I bridge scientific rigor and cultural curiosity, fascinated by how **Complex Systems** translate into arts and music. I thrive in multidisciplinary environments as a **people-gatherer**, aiming to unlock and amplify expressiveness for everyone involved. In this context, AI is a crucial tool, enhancing the **efficiency of human creativity**—and I am committed to its responsible and effective use.'
 feature_row1:
