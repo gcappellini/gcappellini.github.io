@@ -15,7 +15,7 @@ intro:
   # - excerpt: 'Bridging AI innovation and musical expression'
   - excerpt: 'I bridge scientific research and cultural curiosity, fascinated by complex engineering problems, multidisciplinary environments, and how they translate into arts and music. I am committed to promoting a responsible and effective use of AI.'
 feature_row1:
-  - image_path: /images/research-placeholder.jpg
+  - image_path: /images/profile.png
     alt: "Research"
     title: "Research"
     excerpt: 'AI for PDEs at Sapienza Università di Roma. Specializing in Physics-Informed Neural Networks, Oncological Hyperthermia, and Medical Robotics.'
@@ -23,7 +23,7 @@ feature_row1:
     btn_label: "Explore Research"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /images/music-placeholder.JPG
+  - image_path: /images/profile.png
     alt: "Music"
     title: "Music"
     excerpt: 'Drummer & Music Multi-Tool. Session work, production, live performances, and music industry expertise across multiple projects.'
