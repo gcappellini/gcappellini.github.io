@@ -12,7 +12,7 @@ header:
       url: "/music-bio/"
 excerpt: "AI Research Scientist & Freelance Drummer"
 intro: 
-  - excerpt: 'I bridge scientific rigor and cultural curiosity, fascinated by how **Complex Systems** translate into arts and music. I thrive in multidisciplinary environments as a **people-gatherer**, aiming to unlock and amplify expressiveness for everyone involved. In this context, AI is a crucial tool, enhancing the **efficiency of human creativity**—and I am committed to its responsible and effective use.'
+  - excerpt: 'I bridge scientific rigor and cultural curiosity, fascinated by the optimization of **Complex Systems**. I thrive in multidisciplinary environments as a **people-gatherer**, aiming to unlock and amplify expressiveness for everyone involved. In this context, AI is a crucial tool, enhancing the **efficiency of human creativity**—and I am committed to its responsible and effective use.'
 feature_row1:
   - image_path: research-placeholder.jpg
     alt: "Research"
