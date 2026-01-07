@@ -88,13 +88,13 @@ My research stands at the intersection of **Physical Modeling** and **Artificial
 ## Professional Experience
 
 **AI Research Scientist** | Sapienza Università di Roma  
-*(Present)*
+*(Jan 2025 - Dec 2025)*
 * Leading research on **Generative AI** and **PINNs** for the simulation of complex dynamical systems.
 * Developing **Real-time Signal Processing** pipelines for Virtual Reality (VR) environments, optimizing latency for human-in-the-loop applications.
 * Bridging the gap between Finite Element Method (FEM) physics and Deep Learning to reduce computational costs in real-time solvers.
 
 **Visiting AI Researcher** | Amsterdam UMC  
-*(2023 – 6 Months)*
+*(Dec 2023 - May 2024)*
 * Validated data-driven control algorithms on experimental hardware.
 * Focused on **Quality Assurance (QA)** and robust signal acquisition in high-noise environments.
 * Collaborated with international teams to deploy engineering solutions in critical workflows.
@@ -136,7 +136,7 @@ Developed observers for estimating physical parameters in continuous space-time 
 I thrive in interdisciplinary environments, bridging the gap between rigorous engineering and innovative AI tools with real-world impact.
 
 **Current Teaching:**
-- Fundamentals of Automation (Tutor, 2022–Present)
+- Fundamentals of Automation (Tutor, 2022–2025)
 - Medical Robotics (Supervisor of MSc final projects)
 - Supervision of BSc and MSc theses in Physics-Informed AI
 
