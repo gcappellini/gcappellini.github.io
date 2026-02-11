@@ -88,7 +88,7 @@ Music runs deep from both sides of my family. My paternal great-grandmother, Iva
 
 ## Training & Development
 
-My formal training began at Accademia Romana di Musica, where I earned my diploma in solfeggio and explored Brazilian music, classical and jazz orchestras, and pop-rock labs. I continued jazz studies with big bands at Mississippi Music School and through individual mentorship with maestros including Gianni De Rienzo and Mimmo Campanale. I've also attended masterclasses with Roberto Gatto, Francesco Mendolia, Dario Panza, and Berklee Summer Clinics at Umbria Jazz.
+My formal training began at Accademia Romana di Musica, where I earned my diploma in solfeggio and explored Brazilian music, classical and jazz orchestras, and pop-rock labs. I continued jazz studies with big bands at Mississippi Music School and through individual mentorship with maestros including Gianni De Rienzo and Mimmo Campanale. I've also attended masterclasses with Chris Coleman, Roberto Gatto, Francesco Mendolia, Dario Panza, and Berklee Summer Clinics at Umbria Jazz.
 
 ## Projects & Performance
 
