@@ -87,7 +87,11 @@ My research stands at the intersection of **Physical Modeling** and **Artificial
 
 ## Professional Experience
 
-**AI Research Scientist** | Sapienza Università di Roma  
+**Research Engineer** | Ospedale Pediatrico Bambino Gesù
+*(Feb 2026)*
+*Research on **PINNs** for Magnetic Resonance Imaging (MRI)
+
+**AI Research Fellow** | Sapienza Università di Roma  
 *(Jan 2025 - Dec 2025)*
 * Leading research on **Generative AI** and **PINNs** for the simulation of complex dynamical systems.
 * Developing **Real-time Signal Processing** pipelines for Virtual Reality (VR) environments, optimizing latency for human-in-the-loop applications.
