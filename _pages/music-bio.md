@@ -57,7 +57,7 @@ author_profile: true
 ## Drummer & Music Multi-Tool
 
 I have always been fascinated by the drum—humanity’s oldest tool for long-distance communication.
-Rhythm is where structure meets expression, and as a drummer involved in multiple projects, I strive to create the 'pocket'—a solid foundation where the rest of the band can thrive, balancing technical rigor with musical intuition.
+Rhythm is where structure meets expression, and as a drummer involved in multiple projects, I strive to create the 'pocket'—a solid foundation where the band can thrive, balancing technical rigor with musical intuition.
 
 
 <div class="music-nav">
@@ -95,10 +95,10 @@ My formal training began at Accademia Romana di Musica, where I earned my diplom
 Over the years, I've collaborated across classical, jazz, R&B-influenced, indie rock, and pop contexts, accumulating over 300 concerts across Italy.
 
 **Bands I've founded and performed with:**
-- Subba and the Roots (2013–present)
-- Soloperisoci (2017–2024)  
-- La Situa (2018–present)
-- Dimensione Brama (2021–present)
+- Dimensione Brama (2021–present). A collective combining theatre, music, and dance in innovative performances. Released first album "TEATRAL POLITIK" (2026), and participation in the TV show X Factor (2024).
+- Subba and the Roots (2013–present). Blending blues and reggae, R&B and soul. Released the album "BRINDA!" (2018) and toured Italy thanks to the grant Nuovo IMAIE (2019). Drummer, Musical director, and visual designer.
+- La Situa (2018–present). Funk-jazz sextet that released the EP "Swago" (2023) and played in many art galleries, modern antiques, and experimental places in Rome.
+- Soloperisoci (2017–2024). Released the album "Ingresso Riservato" (2023).
 
 **Session work:** Vikthor, Pheelow, Vingiano
 
@@ -112,7 +112,7 @@ Currently, I'm captivated by the UK R&B/jazz scene—artists like Oscar Jerome a
 
 ## The Multi-Tool
 
-In the projects I'm involved in, I often take on roles beyond drumming: coordinator, artistic director, content creator, and data analyst. In 2018, my band Subba and the Roots was awarded a €15k NuovoIMAIE touring grant, giving me hands-on experience as legal representative and touring logistics coordinator. Since then, I've expanded into analyzing listener statistics, revenue data, and release performance—applying the same pattern-recognition mindset I use in AI research to understand what resonates with audiences. I handle A&R, band coordination, production workflow, recording sessions, music production, publishing, distribution, and rights-holder negotiation. The analytical approach I bring to music comes naturally; the same systematic thinking I apply to research helps me understand audiences, optimize releases, and coordinate complex projects.
+In the projects I'm involved in, I often take on roles beyond drumming: coordinator, artistic director, content creator, and data analyst. In 2018, my band Subba and the Roots was awarded a €15k NuovoIMAIE touring grant, giving me hands-on experience as legal representative and touring logistics coordinator. Since then, I've expanded into analyzing listener statistics, revenue data, and release performance—applying the same pattern-recognition mindset I use in AI research to understand what resonates with audiences. I handle A&R, band coordination, production workflow, recording sessions, music production, publishing, distribution, and rights-holder negotiation.
 
 ---
 

@@ -57,9 +57,9 @@ author_profile: true
 
 ## AI Research Scientist
 
-My research stands at the intersection of **Physical Modeling** and **Artificial Intelligence**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). Whether modeling biological tissues or signal propagation, I aim to build AI systems that understand the dynamics of the physical world.
+My research stands at the intersection of **Medical Physics** and **AI**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). Whether modeling biological tissues or signal propagation, I aim to build AI systems that understand the dynamics of the physical world.
 
----
+<!-- ---
 
 <div class="research-nav">
   <a href="/publications/" class="research-nav-item">
@@ -83,21 +83,25 @@ My research stands at the intersection of **Physical Modeling** and **Artificial
   </a>
 </div>
 
----
+--- -->
 
 ## Professional Experience
 
-**Research Engineer** | Ospedale Pediatrico Bambino Gesù
-*(Feb 2026)*
+**Postdoctoral Researcher** | Maastricht UMC+, Dept. of Radiation Oncology
+*(May 2026 - ongoing)*
+Research interests include pre-clinical x-ray irradiation and physics-informed AI for Medical Physics application.
+
+**Research Engineer** | Bambino Gesu' Paediatric Hospital (OPBG)
+*(Jan 2026 - May 2026)*
 *Research on **PINNs** for Magnetic Resonance Imaging (MRI)
 
-**AI Research Fellow** | Sapienza Università di Roma  
+**Postdoctoral Researcher** | Sapienza Università di Roma  
 *(Jan 2025 - Dec 2025)*
 * Leading research on **Generative AI** and **PINNs** for the simulation of complex dynamical systems.
 * Developing **Real-time Signal Processing** pipelines for Virtual Reality (VR) environments, optimizing latency for human-in-the-loop applications.
 * Bridging the gap between Finite Element Method (FEM) physics and Deep Learning to reduce computational costs in real-time solvers.
 
-**Visiting AI Researcher** | Amsterdam UMC  
+**Visiting Researcher** | Amsterdam UMC  
 *(Dec 2023 - May 2024)*
 * Validated data-driven control algorithms on experimental hardware.
 * Focused on **Quality Assurance (QA)** and robust signal acquisition in high-noise environments.
@@ -139,7 +143,7 @@ Developed observers for estimating physical parameters in continuous space-time 
 
 I thrive in interdisciplinary environments, bridging the gap between rigorous engineering and innovative AI tools with real-world impact.
 
-**Current Teaching:**
+**Teaching:**
 - Fundamentals of Automation (Tutor, 2022–2025)
 - Medical Robotics (Supervisor of MSc final projects)
 - Supervision of BSc and MSc theses in Physics-Informed AI
