@@ -140,7 +140,7 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 **2018**
 - **Brinda**, *Album* by Subba and the Roots.
 
-## Videoclips
+<!-- ## Videoclips
 
 <iframe style="border-radius:12px" width="100%" height="380" src="https://www.youtube.com/embed/videoseries?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc" title="YouTube video playlist" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
@@ -153,6 +153,6 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 {% for gig in year_group.items %}
 - {{ gig.date | date: "%b %d" }} — **{{ gig.band | strip }}**{% if gig.event %}, {{ gig.event }}{% endif %}, {{ gig.location | strip }}{% if gig.location != "" %}, {% endif %}{{ gig.city }}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
 
 
