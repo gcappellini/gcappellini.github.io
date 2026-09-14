@@ -5,8 +5,6 @@ permalink: /discography/
 author_profile: true
 ---
 
-# Discography
-
 Explore my recorded work across bands, collaborations, and session projects—spanning funk, jazz, reggae, indie-pop, and experimental sounds.
 
 ## Complete Collection

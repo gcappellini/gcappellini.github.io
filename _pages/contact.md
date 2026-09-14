@@ -62,11 +62,11 @@ I'm always interested in new opportunities that bridge innovation and creativity
 <div class="contact-grid">
   <div class="contact-section">
     <h2>Research Collaboration</h2>
-    <p>Interested in AI for healthcare, physics-informed neural networks, or interdisciplinary research projects.</p>
+    <p>Interested in AI for Medical Physics, physics-informed neural networks, or interdisciplinary research projects.</p>
     
     <div class="contact-info">
       <strong>📧 Email</strong><br>
-      <a href="mailto:cappellini@diag.uniroma1.it">cappellini@diag.uniroma1.it</a>
+      <a href="mailto:guglielmo.cappellini@maastro.nl">guglielmo.cappellini@maastro.nl</a>
     </div>
     
     <div class="contact-info">

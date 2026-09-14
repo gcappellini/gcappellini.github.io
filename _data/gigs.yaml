@@ -1,4 +1,24 @@
 gigs:
+- date: '2026-05-28'
+  band: DIMENSIONE BRAMA
+  location: Apollo
+  city: Milano
+  state: MI
+- date: '2026-05-23'
+  band: SUBBA AND THE ROOTS
+  location: Caffe' Bruciato
+  city: Roma
+  state: RM
+- date: '2026-05-23'
+  band: LA SITUA
+  location: Caffe' Bruciato
+  city: Roma
+  state: RM
+- date: '2026-05-14'
+  band: DIMENSIONE BRAMA
+  location: Monk
+  city: Roma
+  state: RM
 - date: '2025-12-06'
   band: SUBBA AND THE ROOTS
   location: Why Another Studio
@@ -11,7 +31,7 @@ gigs:
   state: RM
   event: La Situa n°8
 - date: '2025-10-11'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Corviale
   city: Roma
   state: RM
@@ -29,7 +49,7 @@ gigs:
   state: RM
   event: Zelia
 - date: '2025-09-04'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Parco Schuster
   city: Roma
   state: RM
@@ -46,7 +66,7 @@ gigs:
   city: Rapallo
   state: GE
 - date: '2025-07-25'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Città dell'altra economia
   city: Roma
   state: RM
@@ -57,13 +77,13 @@ gigs:
   state: RM
   event: La Si7ua
 - date: '2025-07-08'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Teatro India
   city: Roma
   state: RM
   event: BEIRICORDI
 - date: '2025-06-13'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Eur Social Park
   city: Roma
   state: RM
@@ -75,58 +95,58 @@ gigs:
   state: RM
   event: Mezé in Jazz
 - date: '2025-05-17'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Palazzo Braschi
   city: Roma
   state: RM
   event: Notte dei musei
 - date: '2025-05-10'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Circolo Ondina Generali
   city: Roma
   state: RM
   event: 18esimo gianniti
 - date: '2025-04-27'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Piazza dei Sanniti
   city: Roma
   state: RM
   event: Liberazione
 - date: '2025-04-24'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
   event: Evento privato
 - date: '2025-03-18'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: MSC Crociere
   city: Civitavecchia
   state: RM
 - date: '2025-03-06'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Alcazar
   city: Roma
   state: RM
 - date: '2024-12-24'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Santa Maria in Campitelli
   city: Roma
   state: RM
   event: Bariona
 - date: '2024-12-23'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Santa Maria in Campitelli
   city: Roma
   state: RM
   event: Bariona
 - date: '2024-09-07'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Carrozzerie N.O.T.
   city: Roma
   state: RM
 - date: '2024-09-06'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Carrozzerie N.O.T.
   city: Roma
   state: RM
@@ -136,13 +156,13 @@ gigs:
   city: Montalcino
   state: SI
 - date: '2024-07-09'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Klang
   city: Roma
   state: RM
   event: Arezzo Wave
 - date: '2024-06-02'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Auditorium Parco della Musica
   city: Roma
   state: RM
@@ -158,7 +178,7 @@ gigs:
   city: Latina
   state: LT
 - date: '2024-03-14'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Alcazar
   city: Roma
   state: RM
@@ -190,12 +210,12 @@ gigs:
   state: RM
   event: Festa di Radio Rock
 - date: '2023-12-21'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: ASL disabili
   city: Roma
   state: RM
 - date: '2023-12-03'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Piazza Montagnola
   city: Roma
   state: RM
@@ -220,7 +240,7 @@ gigs:
   city: Roma
   state: RM
 - date: '2023-11-11'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Spazio Mensa
   city: Roma
   state: RM
@@ -247,17 +267,17 @@ gigs:
   city: Roma
   state: RM
 - date: '2023-10-01'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
 - date: '2023-09-29'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
 - date: '2023-09-23'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: WPP magazzini generali
   city: Roma
   state: RM
@@ -293,13 +313,13 @@ gigs:
   city: Ventotene
   state: LT
 - date: '2023-08-02'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Garbatella
   city: Roma
   state: RM
   event: M'illumino di teatro
 - date: '2023-07-25'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Terrazza Gianicolo
   city: Roma
   state: RM
@@ -316,7 +336,7 @@ gigs:
   state: RM
   event: Opening Post Nebbia
 - date: '2023-07-08'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Città dell'altra economia
   city: Roma
   state: RM
@@ -339,7 +359,7 @@ gigs:
   city: Roma
   state: RM
 - date: '2023-06-21'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: ''
   city: Roma
   state: RM
@@ -351,7 +371,7 @@ gigs:
   state: RI
   event: Birra del Borgo Festival
 - date: '2023-06-10'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: La Redazione
   city: Roma
   state: RM
@@ -369,7 +389,7 @@ gigs:
   state: RM
   event: Matrimonio
 - date: '2023-05-10'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Auditorium Parco della Musica
   city: Roma
   state: RM
@@ -386,7 +406,7 @@ gigs:
   city: Perugia
   state: PG
 - date: '2023-04-23'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Sala Baldini
   city: Roma
   state: RM
@@ -396,7 +416,7 @@ gigs:
   city: Roma
   state: RM
 - date: '2023-04-08'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Ex Cartiera Latina
   city: Roma
   state: RM
@@ -439,7 +459,7 @@ gigs:
   city: Vignola
   state: MO
 - date: '2022-12-07'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Spazio Mensa
   city: Roma
   state: RM
@@ -454,24 +474,24 @@ gigs:
   city: Sanremo
   state: IM
 - date: '2022-11-02'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cinecittà World
   city: Roma
   state: RM
   event: Halloween Nights
 - date: '2022-10-09'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Sede Che Guevara
   city: Roma
   state: RM
 - date: '2022-10-06'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Art Village
   city: Roma
   state: RM
   event: Tour Music Fest
 - date: '2022-09-25'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Roma Diffusa
   city: Roma
   state: RM
@@ -481,14 +501,14 @@ gigs:
   city: Roma
   state: RM
 - date: '2022-09-22'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Tempio del Futuro Perduto
   city: Milano
   state: MI
   event: Milano Fashion Week
   featured: true
 - date: '2022-09-12'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Bar India
   city: Roma
   state: RM
@@ -520,7 +540,7 @@ gigs:
   state: GE
   event: Premio Bindi
 - date: '2022-07-05'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Panetteria Atomica
   city: Roma
   state: RM
@@ -532,7 +552,7 @@ gigs:
   state: RM
   event: Libera il futuro
 - date: '2022-06-07'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Ambasciata di Spagna presso lo Stato Pontificio
   city: Roma
   state: RM
@@ -561,13 +581,13 @@ gigs:
   state: RM
   event: Limonata Festival
 - date: '2022-04-23'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
   event: Brama Live Show
 - date: '2022-04-22'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
@@ -578,18 +598,18 @@ gigs:
   city: Roma
   state: RM
 - date: '2022-03-20'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Castello della Pace
   city: Montecelio
   state: RM
 - date: '2022-03-05'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM
   event: Brama Live Show
 - date: '2022-03-04'
-  band: BRAMA
+  band: DIMENSIONE BRAMA
   location: Cappella Orsini
   city: Roma
   state: RM

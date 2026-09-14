@@ -1,0 +1,26 @@
+{
+  "name": "gcappellini.github.io Jekyll",
+  "build": {
+    "dockerfile": "../Dockerfile",
+    "context": ".."
+  },
+  "remoteUser": "vscode",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll site",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postAttachCommand": "bundle exec jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.ruby",
+        "wingrunr21.vscode-ruby",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint"
+      ]
+    }
+  }
+}
