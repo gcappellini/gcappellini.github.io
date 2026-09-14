@@ -10,14 +10,14 @@ header:
       url: "/research/"
     - label: "Music"
       url: "/music-bio/"
-excerpt: "Musician & Postdoctoral Researcher AI + Medical Physics"
+excerpt: "Researcher (AI, Medical Physics) and Musician."
 intro: 
-  - excerpt: 'I bridge scientific rigor and cultural curiosity, fascinated by the study and optimization of complex systems, and to develop innovative solutions. I thrive in multidisciplinary environments as a people-gatherer, aiming to unlock and amplify expressiveness for everyone involved.'
+  - excerpt: 'I bridge scientific rigor and cultural curiosity, with an inner call to develop innovative solutions to complex problems. I thrive in multidisciplinary environments as a people-gatherer, aiming to unlock and amplify expressiveness for everyone involved.'
 feature_row1:
   - image_path: research-placeholder.jpg
     alt: "Research"
     title: "Research"
-    excerpt: 'Researcher in AI & Medical Physics specializing in Generative Modeling, Physics-Informed Neural Networks (PINNs), and Inverse Problems. Solving differential equations to simulate physical reality in real-time.'
+    excerpt: 'Researcher in AI & Medical Physics specializing in Physics-Informed Neural Networks (PINNs) for solving differential equations to simulate physical reality in real-time.'
     url: "/research/"
     btn_label: "Explore Research"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row2:
   - image_path: music-placeholder.jpg
     alt: "Music"
     title: "Music"
-    excerpt: 'Drummer, producer and music director. Focused on building the "pocket"—a reliable rhythmic foundation that drives collective expression and allows collaborators to thrive.'
+    excerpt: 'Drummer, producer and music director. Focused on building the "pocket"—a reliable rhythmic foundation that drives collective expression.'
     url: "/music-bio/"
     btn_label: "Explore Music"
     btn_class: "btn--primary"

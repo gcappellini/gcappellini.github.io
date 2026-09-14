@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Guglielmo Cappellini"
   pronouns         : # example: "she/her"  
-  bio              : "AI Research Scientist and freelance drummer."
-  location         : "Rome, Italy"
-  employer         : "Sapienza Università di Roma"
+  bio              : "Researcher (AI, Medical Physics) and Musician."
+  location         : "Maastricht, Netherlands"
+  employer         : "Maastricht UMC+, Maastro"
   uri              : # URL
-  email            : "cappellini@diag.uniroma1.it" 
+  email            : "guglielmo.cappellini@maastro.nl" 
 
   # Academic websites
   academia         : # URL
