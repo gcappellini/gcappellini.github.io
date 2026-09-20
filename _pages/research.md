@@ -57,7 +57,7 @@ author_profile: true
 
 ## AI Research Scientist
 
-My research stands at the intersection of **Medical Physics** and **AI**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). 
+My research stands at the intersection of **Medical Physics** and **AI**. I specialize in **Physics-Informed Neural Networks (PINNs)**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). 
 
 ## Projects
 

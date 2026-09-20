@@ -87,68 +87,15 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 
 ## Recordings
 
-{% assign recs_by_year = site.data.records.records | group_by_exp: "rec", "rec.year | date: '%Y'" | sort: "month" | reverse %}
+{% assign recs_by_year = site.data.records.records | group_by_exp: "rec", "rec.year | year: '%Y'"  | reverse %} 
+<!-- | sort: "month" %} -->
 
 {% for year_group in recs_by_year %}
 **{{ year_group.name }}**
 {% for rec in year_group.items %}
-- **{{ rec.name | strip }}** — {{ rec.band | strip }}, {{ rec.type | strip }}{% if rec.label %}, {{ rec.label }}{% endif %}, {{ rec.role }}
+- **{{ rec.name | strip }}** — {{ rec.band | strip }}, *{{ rec.type | strip }}*{% if rec.label %}, {{ rec.label }}{% endif %}, Role: {{ rec.role }}
 {% endfor %}
 {% endfor %}
-
-<!-- **2026**
-- **TEATRAL POLITIK**, *Album* by Dimensione Brama, Romance distributed by ADA Music Italy.
-
-- **PARTICELLE ELEMENTARI**, *Single* by Dimensione Brama, Romance distributed by ADA Music Italy.
-
-- **ECONOMIA**, *Single* by Dimensione Brama, Romance distributed by ADA Music Italy.
-
-**2025**
-- **Con te**, *Single* by Subba and the Roots.
-
-- **Niente di niente**, *Single* by Soloperisoci, Sputnik Music Group distributed by Altafonte.
-
-- **In Quieto Vivere**, *EP* by VittorioMaria, recorded drums on tracks 1, 6  
-
-- **Voglio andare a vivere al mare**, *Single* by Soloperisoci, Sputnik Music Group distributed by Altafonte.
-
-- **Puerto Anal**, *EP* by La Situa, recorded drums on tracks 5, 6, 7, 8
-
-- **GOODBYE, CUORE DA KILLER**, *Single* by Dimensione Brama, Romance distributed by ADA Music Italy.
-
-- **Caterina**, *Single* by Soloperisoci, Sputnik Music Group distributed by Altafonte.
-
-- **Piangerei**, *Single* by Soloperisoci, Sputnik Music Group distributed by Altafonte.
-
-**2024**
-- **Sunshine**, *Single* by Subba and the Roots.
-
-- **L'Estate Sta Finendo - Live**, *Single* by Dimensione Brama, Warner Music Group Company.
-
-- **Pugni e Baci**, *EP* by Vingiano, recorded drums.
-
-- **Selene**, *Single* by Dimensione Brama.
-
-- **Liberi**, *Single* by Subba and the Roots.
-
-- **Trent'anni**, *Single* by Dimensione Brama.
-
-- **Correre**, *Single* by Dimensione Brama.
-
-**2023**
-- **Swago**, *EP* by La Situa, recorded drums on tracks 3, 4
-
-- **Ingresso riservato**, *Album* by Soloperisoci, Sputnik Music Group distributed by Altafonte.
-
-**2019**
-- **Brinda! live at Alcazar**, *Album* by Subba and the Roots.
-
-- **Dimmi perché**, *Single* by Subba and the Roots.
-
-- **Tutto il tempo che hai**, *Single* by Subba and the Roots.
-
-**2018**
-- **Brinda**, *Album* by Subba and the Roots. -->
 
 ## Videoclips
 
