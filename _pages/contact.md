@@ -55,11 +55,11 @@ h2 {
 }
 </style>
 
-# Let's Collaborate
+<!-- # Let's Collaborate
 
-I'm always interested in new opportunities that bridge innovation and creativity. Whether you're looking for research collaboration or musical partnership, feel free to reach out.
+I'm always interested in new opportunities that bridge innovation and creativity. Whether you're looking for research collaboration or musical partnership, feel free to reach out. -->
 
-<div class="contact-grid">
+<!-- <div class="contact-grid">
   <div class="contact-section">
     <h2>Research Collaboration</h2>
     <p>Interested in AI for Medical Physics, physics-informed neural networks, or interdisciplinary research projects.</p>
@@ -104,4 +104,4 @@ I'm always interested in new opportunities that bridge innovation and creativity
       <a href="https://open.spotify.com/playlist/56lRBoaSfyJIFBDWltWv4t?si=642ce264c6714821" target="_blank">Listen to My Music</a>
     </div>
   </div>
-</div>
+</div> -->

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Music"
-permalink: /music-bio/
+permalink: /music-bio_old/
 author_profile: true
 ---
 

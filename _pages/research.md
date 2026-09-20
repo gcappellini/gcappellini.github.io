@@ -57,7 +57,24 @@ author_profile: true
 
 ## AI Research Scientist
 
-My research stands at the intersection of **Medical Physics** and **AI**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). Whether modeling biological tissues or signal propagation, I aim to build AI systems that understand the dynamics of the physical world.
+My research stands at the intersection of **Medical Physics** and **AI**. I specialize in **Physics-Informed Neural Networks (PINNs)** and **Generative Deep Learning**, developing algorithms that solve complex inverse problems by combining data with physical laws (ODEs/PDEs). 
+
+## Projects
+
+### Physics-Informed Neural Networks (PINNs)
+Developing AI methods that incorporate physical laws and constraints into neural network architectures for solving partial differential equations (PDEs) and inverse problems.
+
+### Oncological Hyperthermia
+Modeling and controlling diffusion processes (e.g., heat transfer, wave propagation) in heterogeneous media using physics-informed observers and adaptive estimators.
+
+### Real-time Simulation & VR
+AI-driven simulation of deformable soft bodies for interactive Virtual Reality platforms, focusing on computational efficiency and physical realism. 
+
+
+### Small Animal Research Imaging
+Research on methods to improve Small Animal Imaging research for cancer.
+
+---
 
 <!-- ---
 
@@ -93,7 +110,7 @@ Research interests include pre-clinical x-ray irradiation and physics-informed A
 
 **Research Engineer** | Bambino Gesu' Paediatric Hospital (OPBG)
 *(Jan 2026 - May 2026)*
-*Research on **PINNs** for Magnetic Resonance Imaging (MRI)
+Research on **PINNs** for Magnetic Resonance Imaging (MRI)
 
 **Postdoctoral Researcher** | Sapienza Università di Roma  
 *(Jan 2025 - Dec 2025)*
@@ -109,20 +126,6 @@ Research interests include pre-clinical x-ray irradiation and physics-informed A
 
 ---
 
-## Research Focus
-
-My current research centers on:
-
-### Physics-Informed Neural Networks (PINNs)
-Developing AI methods that incorporate physical laws and constraints into neural network architectures for solving partial differential equations (PDEs) and inverse problems.
-
-### Distributed Parameter Systems & Diffusion
-Modeling and controlling diffusion processes (e.g., heat transfer, wave propagation) in heterogeneous media using physics-informed observers and adaptive estimators.
-
-### Real-time Simulation & VR
-AI-driven simulation of deformable soft bodies for interactive Virtual Reality platforms, focusing on computational efficiency and physical realism.
----
-
 ## Academic Background
 
 **PhD in AI for Control Engineering** (Sapienza Università di Roma, 2022–2024)  
@@ -135,15 +138,11 @@ Developed observers for estimating physical parameters in continuous space-time 
 **BSc in Energy and Nuclear Engineering** (Sapienza Università di Roma, 2015–2017)  
 *Focus: Physics of complex systems and experimental measurements.*
 
- 
-
 ---
 
-## Teaching & Leadership
+## Teaching 
 
-I thrive in interdisciplinary environments, bridging the gap between rigorous engineering and innovative AI tools with real-world impact.
-
-**Teaching:**
+- Duo projects for Tu-E Biomedical Engineers (2026)
 - Fundamentals of Automation (Tutor, 2022–2025)
 - Medical Robotics (Supervisor of MSc final projects)
 - Supervision of BSc and MSc theses in Physics-Informed AI

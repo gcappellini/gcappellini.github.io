@@ -54,9 +54,14 @@ author_profile: true
 }
 </style>
 
-## Drummer & Music Multi-Tool
+<!-- ## Drummer & Music Multi-Tool -->
 
-I have always been fascinated by the drum—humanity’s oldest tool for long-distance communication.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/56lRBoaSfyJIFBDWltWv4t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+---
+
+I have always been fascinated by the drum as one of humanity’s oldest tool for long-distance communication.
 Rhythm is where structure meets expression, and as a drummer involved in multiple projects, I strive to create the 'pocket'—a solid foundation where the band can thrive, balancing technical rigor with musical intuition.
 
 Music runs deep from both sides of my family. My paternal great-grandmother, Iva Pacetti, was a renowned opera soprano who performed at major Italian and international theatres. On my mother's side, I descend from Giuseppe Giacosa, librettist of Puccini's Tosca, La Bohème, and Madama Butterfly. 
@@ -67,26 +72,31 @@ I love jazz for its ability to connect people across the globe and its philosoph
 
 In the projects I'm involved in, I often take on roles beyond drumming: coordinator, artistic director, content creator, and data analyst. In 2018, my band Subba and the Roots was awarded a €15k NuovoIMAIE touring grant, giving me hands-on experience as legal representative and touring logistics coordinator. Since then, I've expanded into analyzing listener statistics, revenue data, and release performance. I handle A&R, band coordination, production workflow, recording sessions, music production, publishing, distribution, and rights-holder negotiation.
 
-## Projects & Performances
+## Projects
 
 Over the years, I've collaborated across classical, jazz, R&B-influenced, indie rock, and pop contexts, accumulating over 300 concerts across Italy.
 
 **Bands I've founded and performed with:**
-- Dimensione Brama (2021–present). A collective combining theatre, music, and dance in innovative performances. Released first album "TEATRAL POLITIK" (2026), and participated in the TV show X Factor (2024). Drummer, performer.
-- Subba and the Roots (2013–present). Blending blues and reggae, R&B and soul. Released the album "BRINDA!" (2018) and toured Italy thanks to the grant Nuovo IMAIE (2019). Drummer, Musical director, and visual designer.
-- La Situa (2018–present). Funk-jazz sextet that released the EP "Swago" (2023) and played in many art galleries, modern antiques, and experimental places in Rome.
-- Soloperisoci (2017–2024). Released the album "Ingresso Riservato" (2023). Drummer, Musical director.
+- **Dimensione Brama** (2021–present). A collective combining theatre, music, and dance in innovative performances. Released first album "TEATRAL POLITIK" (2026), and participated in the TV show X Factor (2024). Drummer, performer.
+- **Subba and the Roots** (2013–present). Blending blues and reggae, R&B and soul. Released the album "BRINDA!" (2018) and toured Italy thanks to the grant Nuovo IMAIE (2019). Drummer, Musical director, and visual designer.
+- **La Situa** (2018–present). Funk-jazz sextet that released the EP "Swago" (2023) and played in many art galleries, modern antiques, and experimental places in Rome.
+- **Soloperisoci** (2017–2024). Released the album "Ingresso Riservato" (2023).
 
 **Session work:** Vikthor, Pheelow, Vingiano.
 **Performances:** "Mi chiamano sbandato" with Edoardo Pesce and Marcello Fonte (Rome Film Festival, 2018).
 
-## Releases
+## Recordings
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/56lRBoaSfyJIFBDWltWv4t?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% assign recs_by_year = site.data.records.records | group_by_exp: "rec", "rec.year | date: '%Y'" | sort: "month" | reverse %}
 
----
+{% for year_group in recs_by_year %}
+**{{ year_group.name }}**
+{% for rec in year_group.items %}
+- **{{ rec.name | strip }}** — {{ rec.band | strip }}, {{ rec.type | strip }}{% if rec.label %}, {{ rec.label }}{% endif %}, {{ rec.role }}
+{% endfor %}
+{% endfor %}
 
-**2026**
+<!-- **2026**
 - **TEATRAL POLITIK**, *Album* by Dimensione Brama, Romance distributed by ADA Music Italy.
 
 - **PARTICELLE ELEMENTARI**, *Single* by Dimensione Brama, Romance distributed by ADA Music Italy.
@@ -138,11 +148,11 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 - **Tutto il tempo che hai**, *Single* by Subba and the Roots.
 
 **2018**
-- **Brinda**, *Album* by Subba and the Roots.
+- **Brinda**, *Album* by Subba and the Roots. -->
 
-<!-- ## Videoclips
+## Videoclips
 
-<iframe style="border-radius:12px" width="100%" height="380" src="https://www.youtube.com/embed/videoseries?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc" title="YouTube video playlist" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+<iframe style="border-radius:12px" width="100%" height="60" src="https://www.youtube.com/embed/videoseries?list=PLXOIxosTts4Qnn02TBomGon_Fr0iyzzHc" title="YouTube video playlist" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
 
 ## Performances
 
@@ -153,6 +163,6 @@ Over the years, I've collaborated across classical, jazz, R&B-influenced, indie 
 {% for gig in year_group.items %}
 - {{ gig.date | date: "%b %d" }} — **{{ gig.band | strip }}**{% if gig.event %}, {{ gig.event }}{% endif %}, {{ gig.location | strip }}{% if gig.location != "" %}, {% endif %}{{ gig.city }}
 {% endfor %}
-{% endfor %} -->
+{% endfor %}
 
 
